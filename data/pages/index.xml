@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Mon, 02 Sep 2024 16:53:31 +0200</pubDate><title><![CDATA[Welcome to GetSimple!]]></title><url><![CDATA[index]]></url><meta><![CDATA[getsimple, easy, content management system]]></meta><metad><![CDATA[]]></metad><menu><![CDATA[Home]]></menu><menuOrder><![CDATA[1]]></menuOrder><menuStatus><![CDATA[Y]]></menuStatus><template><![CDATA[template.php]]></template><parent><![CDATA[]]></parent><content><![CDATA[
+
+&lt;div class=&quot;hero-wrapper hero-7&quot; id=&quot;hero&quot;&gt;
+	&lt;div class=&quot;bg-title&quot;&gt;
+		&lt;div class=&quot;container&quot;&gt;
+			&lt;div class=&quot;row justify-content-center&quot;&gt;
+				&lt;div class=&quot;col-lg-12&quot;&gt;
+					&lt;div class=&quot;hero-style7 text-center&quot;&gt;
+						&lt;h1 class=&quot;hero-title wow img-custom-anim-top text-smoke&quot;&gt;Transforming Ideas Into Digital Reality&lt;/h1&gt;
+
+						&lt;p class=&quot;hero-text wow img-custom-anim-top text-smoke&quot;&gt;Expert web and mobile app development services tailored to your business. We create custom digital solutions, from websites to mobile apps, that drive growth and innovation.&lt;/p&gt;
+					&lt;/div&gt;
+				&lt;/div&gt;
+
+				&lt;div class=&quot;col-lg-8&quot;&gt;
+					&lt;div class=&quot;hero-7-thumb wow img-custom-anim-top&quot; data-wow-delay=&quot;0.2s&quot; data-wow-duration=&quot;1.5s&quot;&gt;&lt;img alt=&quot;img&quot; src=&quot;./data/uploads/banner.jpg&quot; /&gt;&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;feature-area-1 space&quot;&gt;
+	&lt;div class=&quot;container&quot;&gt;
+		&lt;div class=&quot;row justify-content-xl-between justify-content-center&quot;&gt;
+			&lt;div class=&quot;col-xl-5 col-lg-8 position-relative&quot;&gt;
+				&lt;div class=&quot;sec_title_static&quot;&gt;
+					&lt;div class=&quot;sec_title_wrap&quot;&gt;
+						&lt;div class=&quot;title-area&quot;&gt;
+							&lt;h2 class=&quot;sec-title&quot;&gt;Our Services&lt;/h2&gt;
+						&lt;/div&gt;
+					&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+
+			&lt;div class=&quot;col-xxl-6 col-xl-6&quot;&gt;
+				&lt;div class=&quot;feature-static-wrap&quot;&gt;
+					&lt;div class=&quot;feature-static&quot;&gt;
+						&lt;div class=&quot;feature-card style-grid&quot;&gt;
+							&lt;div class=&quot;feature-card-icon&quot;&gt;&lt;img alt=&quot;icon&quot; src=&quot;./data/uploads/icon/feature-icon1-1.svg&quot; /&gt;&lt;/div&gt;
+
+							&lt;div class=&quot;feature-card-details&quot;&gt;
+								&lt;h4 class=&quot;feature-card-title&quot;&gt;&lt;a href=&quot;our-services/web-development/&quot;&gt;Web Development&lt;/a&gt;&lt;/h4&gt;
+
+								&lt;p class=&quot;feature-card-text&quot;&gt;Our developers specialize in creating bespoke websites tailored to your unique requirements...&lt;/p&gt;
+								&lt;a class=&quot;link-btn&quot; href=&quot;our-services/web-development/&quot;&gt;&lt;span class=&quot;link-effect&quot;&gt; &lt;span class=&quot;effect-1&quot;&gt;VIEW DETAILS&lt;/span&gt; &lt;span class=&quot;effect-1&quot;&gt;VIEW DETAILS&lt;/span&gt; &lt;/span&gt; &lt;img alt=&quot;icon&quot; src=&quot;./data/uploads/icon/arrow-left-top.svg&quot; /&gt; &lt;/a&gt;&lt;/div&gt;
+						&lt;/div&gt;
+					&lt;/div&gt;
+
+					&lt;div class=&quot;feature-static&quot;&gt;
+						&lt;div class=&quot;feature-card style-grid&quot;&gt;
+							&lt;div class=&quot;feature-card-icon&quot;&gt;&lt;img alt=&quot;icon&quot; src=&quot;./data/uploads/icon/feature-icon1-2.svg&quot; /&gt;&lt;/div&gt;
+
+							&lt;div class=&quot;feature-card-details&quot;&gt;
+								&lt;h4 class=&quot;feature-card-title&quot;&gt;&lt;a href=&quot;our-services/mobile-app-development/&quot;&gt;Mobile App Development&lt;/a&gt;&lt;/h4&gt;
+
+								&lt;p class=&quot;feature-card-text&quot;&gt;Tap into the mobile market with our expert mobile app development services.&lt;/p&gt;
+								&lt;a class=&quot;link-btn&quot; href=&quot;our-services/mobile-app-development/&quot;&gt;&lt;span class=&quot;link-effect&quot;&gt; &lt;span class=&quot;effect-1&quot;&gt;MORE DETAILS&lt;/span&gt; &lt;span class=&quot;effect-1&quot;&gt;MORE DETAILS&lt;/span&gt; &lt;/span&gt; &lt;img alt=&quot;icon&quot; src=&quot;./data/uploads/icon/arrow-left-top.svg&quot; /&gt; &lt;/a&gt;&lt;/div&gt;
+						&lt;/div&gt;
+					&lt;/div&gt;
+
+					&lt;div class=&quot;feature-static&quot;&gt;
+						&lt;div class=&quot;feature-card style-grid&quot;&gt;
+							&lt;div class=&quot;feature-card-icon&quot;&gt;&lt;img alt=&quot;icon&quot; src=&quot;./data/uploads/icon/feature-icon1-3.svg&quot; /&gt;&lt;/div&gt;
+
+							&lt;div class=&quot;feature-card-details&quot;&gt;
+								&lt;h4 class=&quot;feature-card-title&quot;&gt;&lt;a href=&quot;our-services/digital-marketing/&quot;&gt;Digital Marketing&lt;/a&gt;&lt;/h4&gt;
+
+								&lt;p class=&quot;feature-card-text&quot;&gt;Crafting a compelling digital marketing strategy is essential for success in the online world.&lt;/p&gt;
+								&lt;a class=&quot;link-btn&quot; href=&quot;our-services/digital-marketing/&quot;&gt;&lt;span class=&quot;link-effect&quot;&gt; &lt;span class=&quot;effect-1&quot;&gt;MORE DETAILS&lt;/span&gt; &lt;span class=&quot;effect-1&quot;&gt;MORE DETAILS&lt;/span&gt; &lt;/span&gt; &lt;img alt=&quot;icon&quot; src=&quot;./data/uploads/icon/arrow-left-top.svg&quot; /&gt; &lt;/a&gt;&lt;/div&gt;
+						&lt;/div&gt;
+					&lt;/div&gt;
+
+					&lt;div class=&quot;feature-static&quot;&gt;
+						&lt;div class=&quot;feature-card style-grid&quot;&gt;
+							&lt;div class=&quot;feature-card-icon&quot;&gt;&lt;img alt=&quot;icon&quot; src=&quot;./data/uploads/icon/feature-icon1-3.svg&quot; /&gt;&lt;/div&gt;
+
+							&lt;div class=&quot;feature-card-details&quot;&gt;
+								&lt;h4 class=&quot;feature-card-title&quot;&gt;&lt;a href=&quot;our-services/it-consultancy/&quot;&gt;I.T Consultancy&lt;/a&gt;&lt;/h4&gt;
+
+								&lt;p class=&quot;feature-card-text&quot;&gt;We provide in-depth analytics and insights to help you understand user behavior &amp;amp; refine your digital strategy.&lt;/p&gt;
+								&lt;a class=&quot;link-btn&quot; href=&quot;our-services/it-consultancy/&quot;&gt;&lt;span class=&quot;link-effect&quot;&gt; &lt;span class=&quot;effect-1&quot;&gt;MORE DETAILS&lt;/span&gt; &lt;span class=&quot;effect-1&quot;&gt;MORE DETAILS&lt;/span&gt; &lt;/span&gt; &lt;img alt=&quot;icon&quot; src=&quot;./data/uploads/icon/arrow-left-top.svg&quot; /&gt; &lt;/a&gt;&lt;/div&gt;
+						&lt;/div&gt;
+					&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;about-area-1 space bg-theme&quot;&gt;
+	&lt;div class=&quot;about-img-1-1 shape-mockup img-custom-anim-left wow&quot; data-bottom=&quot;140px&quot; data-left=&quot;0&quot; data-top=&quot;-100px&quot; data-wow-delay=&quot;0.1s&quot; data-wow-duration=&quot;1.5s&quot;&gt;&lt;img alt=&quot;img&quot; src=&quot;./data/uploads/banner-1.png&quot; /&gt;&lt;/div&gt;
+
+	&lt;div class=&quot;container&quot;&gt;
+		&lt;div class=&quot;row align-items-start justify-content-end&quot;&gt;
+			&lt;div class=&quot;col-lg-6&quot;&gt;
+				&lt;div class=&quot;overflow-hidden&quot;&gt;
+					&lt;div class=&quot;about-content-wrap &quot;&gt;
+						&lt;div class=&quot;title-area mb-0&quot;&gt;
+							&lt;h2 class=&quot;sec-title&quot;&gt;Crafting Experiences, Igniting Creativity&lt;/h2&gt;
+
+							&lt;p class=&quot;sec-text mt-35&quot;&gt;AlessionTech is your partner in transforming ideas into visually captivating digital experiences. Dive into the intricacies of our comprehensive design services, each meticulously tailored to bring your brand to life in the digital landscape.&lt;/p&gt;
+
+							&lt;p class=&quot;sec-text mt-30&quot;&gt;Embark on a collaborative journey where we understand the essence of your brand. Our creative consultations go beyond aesthetics, delving into the core of your values, mission, and unique selling propositions to inform a design strategy that resonates with your target audience.&lt;/p&gt;
+
+							&lt;div class=&quot;btn-wrap mt-50&quot;&gt;&lt;a class=&quot;link-btn&quot; href=&quot;about-us/&quot;&gt;&lt;span class=&quot;link-effect&quot;&gt; &lt;span class=&quot;effect-1&quot;&gt;ABOUT US&lt;/span&gt; &lt;span class=&quot;effect-1&quot;&gt;ABOUT US&lt;/span&gt; &lt;/span&gt; &lt;img alt=&quot;icon&quot; src=&quot;./data/uploads/icon/arrow-left-top.svg&quot; /&gt; &lt;/a&gt;&lt;/div&gt;
+						&lt;/div&gt;
+					&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+ <div class="portfolio-area-1 space overflow-hidden">
+	<div class="container">
+		<div class="row justify-content-center">
+			<div class="col-xl-7 col-lg-9">
+				<div class="title-area text-center">
+					<h2 class="sec-title">Discover Our Selected Projects</h2>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="container-fluid p-0">
+		<div class="row global-carousel gx-60 portfolio-slider" data-slide-show="1" data-center-mode="true" data-xl-center-mode="true" data-ml-center-mode="true" data-lg-center-mode="true" data-center-padding="600px" data-xl-center-padding="400px" data-ml-center-padding="400px" data-lg-center-padding="300px" data-dots="true" data-xl-dots="true" data-ml-dots="true">
+			<div class="col-lg-4">
+				<a href="https://kakaanstudio.com/" target="_blank" class="portfolio-wrap style2">
+					<div class="portfolio-thumb">
+						<img src="./data/uploads/kakaanstudio.png" alt="portfolio">
+					</div>
+					<div class="portfolio-details">
+						<h3 class="portfolio-title">Kakaan Design Studio</h3>
+					</div>
+				</a>
+			</div>
+			<div class="col-lg-4">
+				<a href="https://fitsoko.com/" target="_blank" class="portfolio-wrap style2">
+					<div class="portfolio-thumb">
+						<img src="./data/uploads/fit.png" alt="portfolio">
+					</div>
+					<div class="portfolio-details">
+						
+						<h3 class="portfolio-title">FitSoko</h3>
+					</div>
+				</a>
+			</div>
+			<div class="col-lg-4">
+				<a href="https://beverlymumbo.com/" target="_blank" class="portfolio-wrap style2">
+					<div class="portfolio-thumb">
+						<img src="./data/uploads/bev.png" alt="portfolio">
+					</div>
+					<div class="portfolio-details">
+				
+						<h3 class="portfolio-title">Beverly Mumbo</h3>
+					</div>
+				</a>
+			</div>
+			<div class="col-lg-4">
+				<a href="https://www.augusta.co.ke/"  target="_blank" class="portfolio-wrap style2">
+					<div class="portfolio-thumb">
+						<img src="./data/uploads/augusta.png" alt="portfolio">
+					</div>
+					<div class="portfolio-details">
+						
+						<h3 class="portfolio-title">Augusta Software House</h3>
+					</div>
+				</a>
+			</div>
+			<div class="col-lg-4">
+				<a href="https://xeone.com/"  target="_blank" class="portfolio-wrap style2">
+					<div class="portfolio-thumb">
+						<img src="./data/uploads/xeone.png" alt="portfolio">
+					</div>
+					<div class="portfolio-details">
+						<h3 class="portfolio-title">XeOne</h3>
+					</div>
+				</a>
+			</div>
+			<div class="col-lg-4">
+				<a href="https://www.ajiratelematics.com/"  target="_blank" class="portfolio-wrap style2">
+					<div class="portfolio-thumb">
+						<img src="./data/uploads/ajira.png" alt="portfolio">
+					</div>
+					<div class="portfolio-details">
+						
+						<h3 class="portfolio-title">Ajira Telematics</h3>
+					</div>
+				</a>
+			</div>
+		</div>
+	</div>
+</div>
+
+&lt;div class=&quot;container-fluid p-0 overflow-hidden&quot;&gt;
+	&lt;div class=&quot;slider__marquee clearfix marquee-wrap&quot;&gt;
+		&lt;div class=&quot;marquee_mode marquee__group&quot;&gt;
+			&lt;h6 class=&quot;item m-item&quot;&gt;&lt;a href=&quot;about-us/&quot;&gt;&lt;i class=&quot;fas fa-star-of-life&quot;&gt;&lt;/i&gt; You Think it&lt;/a&gt;&lt;/h6&gt;
+
+			&lt;h6 class=&quot;item m-item&quot;&gt;&lt;a href=&quot;about-us/&quot;&gt;&lt;i class=&quot;fas fa-star-of-life&quot;&gt;&lt;/i&gt; We Geek it&lt;/a&gt;&lt;/h6&gt;
+
+			&lt;h6 class=&quot;item m-item&quot;&gt;&lt;a href=&quot;about-us/&quot;&gt;&lt;i class=&quot;fas fa-star-of-life&quot;&gt;&lt;/i&gt; You Think it&lt;/a&gt;&lt;/h6&gt;
+
+			&lt;h6 class=&quot;item m-item&quot;&gt;&lt;a href=&quot;about-us/&quot;&gt;&lt;i class=&quot;fas fa-star-of-life&quot;&gt;&lt;/i&gt; We Geek it&lt;/a&gt;&lt;/h6&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;faq-area-2 space overflow-hidden&quot;&gt;
+	&lt;div class=&quot;container&quot;&gt;
+		&lt;div class=&quot;row justify-content-center&quot;&gt;
+			&lt;div class=&quot;col-xl-8&quot;&gt;
+				&lt;div class=&quot;accordion-area accordion&quot; id=&quot;faqAccordion&quot;&gt;
+					&lt;div class=&quot;accordion-card style2 active&quot;&gt;
+						&lt;div class=&quot;accordion-header&quot; id=&quot;collapse-item-1&quot;&gt;&lt;button aria-controls=&quot;collapse-1&quot; aria-expanded=&quot;true&quot; class=&quot;accordion-button &quot; data-bs-target=&quot;#collapse-1&quot; data-bs-toggle=&quot;collapse&quot; type=&quot;button&quot;&gt;What services does AlessionTech offer?&lt;/button&gt;&lt;/div&gt;
+
+						&lt;div aria-labelledby=&quot;collapse-item-1&quot; class=&quot;accordion-collapse collapse show&quot; data-bs-parent=&quot;#faqAccordion&quot; id=&quot;collapse-1&quot;&gt;
+							&lt;div class=&quot;accordion-body&quot;&gt;
+								&lt;p class=&quot;faq-text&quot;&gt;AlessionTech is a full-service digital agency. We specialize in design, development, promotion, and ongoing support for websites, web applications, mobile apps, and more. Our services cover a wide range, including custom design, web and app development, digital marketing, and ongoing maintenance.&lt;/p&gt;
+							&lt;/div&gt;
+						&lt;/div&gt;
+					&lt;/div&gt;
+
+					&lt;div class=&quot;accordion-card style2&quot;&gt;
+						&lt;div class=&quot;accordion-header&quot; id=&quot;collapse-item-2&quot;&gt;&lt;button aria-controls=&quot;collapse-2&quot; aria-expanded=&quot;false&quot; class=&quot;accordion-button collapsed&quot; data-bs-target=&quot;#collapse-2&quot; data-bs-toggle=&quot;collapse&quot; type=&quot;button&quot;&gt;How can I get in touch with AlessionTech?&lt;/button&gt;&lt;/div&gt;
+
+						&lt;div aria-labelledby=&quot;collapse-item-2&quot; class=&quot;accordion-collapse collapse &quot; data-bs-parent=&quot;#faqAccordion&quot; id=&quot;collapse-2&quot;&gt;
+							&lt;div class=&quot;accordion-body&quot;&gt;
+								&lt;p class=&quot;faq-text&quot;&gt;ou can reach out to AlessionTech through our &lt;a href=&quot;contact-us/&quot;&gt;Contact Us page&lt;/a&gt; on our website. Whether you have questions about our services or want to discuss a potential project, our team is ready to assist you.&lt;/p&gt;
+							&lt;/div&gt;
+						&lt;/div&gt;
+					&lt;/div&gt;
+
+					&lt;div class=&quot;accordion-card style2&quot;&gt;
+						&lt;div class=&quot;accordion-header&quot; id=&quot;collapse-item-3&quot;&gt;&lt;button aria-controls=&quot;collapse-3&quot; aria-expanded=&quot;false&quot; class=&quot;accordion-button collapsed&quot; data-bs-target=&quot;#collapse-3&quot; data-bs-toggle=&quot;collapse&quot; type=&quot;button&quot;&gt;What sets AlessionTech apart from other digital&lt;br /&gt;
+							agencies?&lt;/button&gt;&lt;/div&gt;
+
+						&lt;div aria-labelledby=&quot;collapse-item-3&quot; class=&quot;accordion-collapse collapse &quot; data-bs-parent=&quot;#faqAccordion&quot; id=&quot;collapse-3&quot;&gt;
+							&lt;div class=&quot;accordion-body&quot;&gt;
+								&lt;p class=&quot;faq-text&quot;&gt;AlessionTech distinguishes itself through a combination of creative excellence, technological innovation, and a client-centric approach. Our collaborative mindset, commitment to results, and continuous pursuit of excellence make us stand out in the digital landscape.&lt;/p&gt;
+							&lt;/div&gt;
+						&lt;/div&gt;
+					&lt;/div&gt;
+
+					&lt;div class=&quot;accordion-card style2&quot;&gt;
+						&lt;div class=&quot;accordion-header&quot; id=&quot;collapse-item-4&quot;&gt;&lt;button aria-controls=&quot;collapse-4&quot; aria-expanded=&quot;false&quot; class=&quot;accordion-button collapsed&quot; data-bs-target=&quot;#collapse-4&quot; data-bs-toggle=&quot;collapse&quot; type=&quot;button&quot;&gt;How long does it take for AlessionTech to complete a project?&lt;/button&gt;&lt;/div&gt;
+
+						&lt;div aria-labelledby=&quot;collapse-item-4&quot; class=&quot;accordion-collapse collapse &quot; data-bs-parent=&quot;#faqAccordion&quot; id=&quot;collapse-4&quot;&gt;
+							&lt;div class=&quot;accordion-body&quot;&gt;
+								&lt;p class=&quot;faq-text&quot;&gt;Project timelines vary based on the scope and complexity of the project. During the initial consultation, we discuss your timeline expectations, and our team provides a detailed project plan outlining milestones and delivery timelines.&lt;/p&gt;
+							&lt;/div&gt;
+						&lt;/div&gt;
+					&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;testimonial-area-1 space bg-theme&quot;&gt;
+	&lt;div class=&quot;testimonial-img-1-1 shape-mockup wow img-custom-anim-right&quot; data-bottom=&quot;140px&quot; data-right=&quot;0&quot; data-top=&quot;-100px&quot; data-wow-delay=&quot;0.2s&quot; data-wow-duration=&quot;1.5s&quot;&gt;&lt;img alt=&quot;img&quot; src=&quot;./data/uploads/testi.jpg&quot; /&gt;&lt;/div&gt;
+
+	&lt;div class=&quot;container&quot;&gt;
+		&lt;div class=&quot;row&quot;&gt;
+			&lt;div class=&quot;col-lg-6&quot;&gt;
+				&lt;div class=&quot;title-area&quot;&gt;
+					&lt;h2 class=&quot;sec-title&quot;&gt;Testimonials&lt;/h2&gt;
+				&lt;/div&gt;
+
+				&lt;div class=&quot;quote-icon&quot;&gt;&lt;img alt=&quot;icon&quot; src=&quot;./data/uploads/icon/quote.svg&quot; /&gt;&lt;/div&gt;
+
+				&lt;div class=&quot;row global-carousel testi-slider1&quot; data-dots=&quot;true&quot; data-ml-dots=&quot;true&quot; data-slide-show=&quot;1&quot; data-xl-dots=&quot;true&quot;&gt;
+					&lt;div class=&quot;col-lg-4&quot;&gt;
+						&lt;div class=&quot;testi-box&quot;&gt;
+							&lt;p class=&quot;testi-box_text&quot;&gt;“AlessionTech&#039;s creativity transformed our brand. The website they designed not only looks amazing but also boosted our conversion rates. A pleasure to work with!”&lt;/p&gt;
+
+							&lt;div class=&quot;testi-box_profile&quot;&gt;
+								&lt;h4 class=&quot;testi-box_name&quot;&gt;Hope Robert&lt;/h4&gt;
+								&lt;span class=&quot;testi-box_desig&quot;&gt;Founder Kakaan Design Studio&lt;/span&gt;&lt;/div&gt;
+						&lt;/div&gt;
+					&lt;/div&gt;
+
+					&lt;div class=&quot;col-lg-4&quot;&gt;
+						&lt;div class=&quot;testi-box&quot;&gt;
+							&lt;p class=&quot;testi-box_text&quot;&gt;“AlessionTech understood our goals and delivered beyond our expectations. The collaboration was seamless, and the results speak for themselves. Highly recommended!”&lt;/p&gt;
+
+							&lt;div class=&quot;testi-box_profile&quot;&gt;
+								&lt;h4 class=&quot;testi-box_name&quot;&gt;XeOne Team&lt;/h4&gt;
+								&lt;span class=&quot;testi-box_desig&quot;&gt;Xeone&lt;/span&gt;&lt;/div&gt;
+						&lt;/div&gt;
+					&lt;/div&gt;
+
+					&lt;div class=&quot;col-lg-4&quot;&gt;
+						&lt;div class=&quot;testi-box&quot;&gt;
+							&lt;p class=&quot;testi-box_text&quot;&gt;“Incredible digital transformation by AlessionTech. Their team&#039;s attention to detail and transparent communication made the process smooth. A reliable and creative partner!”&lt;/p&gt;
+
+							&lt;div class=&quot;testi-box_profile&quot;&gt;
+								&lt;h4 class=&quot;testi-box_name&quot;&gt;Beverly Mumbo Otieno&lt;/h4&gt;
+								&lt;span class=&quot;testi-box_desig&quot;&gt;Director, ThaminiBinti.org&lt;/span&gt;&lt;/div&gt;
+						&lt;/div&gt;
+					&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;cta-area-1 overflow-hidden bg-title space text-xl-start text-center&quot;&gt;
+	&lt;div class=&quot;container&quot;&gt;
+		&lt;div class=&quot;row justify-content-xl-between justify-content-center align-items-center&quot;&gt;
+			&lt;div class=&quot;col-xl-8 col-lg-10&quot;&gt;
+				&lt;div class=&quot;title-area mb-xl-0 mb-60&quot;&gt;
+					&lt;h2 class=&quot;sec-title text-white&quot;&gt;Let&#039;s Create Something Great&lt;/h2&gt;
+
+					&lt;p class=&quot;sec-text mt-30 mb-n2 text-white&quot;&gt;We shift you from today’s reality to tomorrow’s potential, ensuring&lt;/p&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+
+			&lt;div class=&quot;col-xl-auto&quot;&gt;&lt;a class=&quot;circle-btn btn bg-theme text-title gsap-magnetic&quot; href=&quot;contact-us/&quot;&gt;&lt;span class=&quot;link-effect&quot;&gt; &lt;span class=&quot;effect-1&quot;&gt;LET&#039;S TALK&lt;/span&gt; &lt;span class=&quot;effect-1&quot;&gt;LET&#039;S TALK&lt;/span&gt; &lt;/span&gt; &lt;/a&gt;&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+]]></content><private><![CDATA[]]></private><author><![CDATA[admin]]></author></item>

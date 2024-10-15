@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Mon, 02 Sep 2024 18:00:35 +0200</pubDate><title><![CDATA[faq]]></title><url><![CDATA[faq]]></url><meta><![CDATA[]]></meta><metad><![CDATA[]]></metad><menu><![CDATA[]]></menu><menuOrder><![CDATA[0]]></menuOrder><menuStatus><![CDATA[]]></menuStatus><template><![CDATA[template.php]]></template><parent><![CDATA[]]></parent><content><![CDATA[&lt;div class=&quot;breadcumb-wrapper &quot; data-bg-src=&quot;assets/img/bg/breadcumb-bg1-5.jpg&quot;&gt;
+	&lt;div class=&quot;container&quot;&gt;
+		&lt;div class=&quot;breadcumb-content&quot;&gt;
+			&lt;h1 class=&quot;breadcumb-title&quot;&gt;FAQs&lt;/h1&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;faq-area-2 space overflow-hidden&quot;&gt;
+	&lt;div class=&quot;container&quot;&gt;
+		&lt;div class=&quot;row justify-content-center&quot;&gt;
+			&lt;div class=&quot;col-xl-8&quot;&gt;
+				&lt;div class=&quot;accordion-area accordion&quot; id=&quot;faqAccordion&quot;&gt;
+					&lt;div class=&quot;accordion-card style2 active&quot;&gt;
+						&lt;div class=&quot;accordion-header&quot; id=&quot;collapse-item-1&quot;&gt;&lt;button aria-controls=&quot;collapse-1&quot; aria-expanded=&quot;true&quot; class=&quot;accordion-button &quot; data-bs-target=&quot;#collapse-1&quot; data-bs-toggle=&quot;collapse&quot; type=&quot;button&quot;&gt;What services does AlessionTech offer?&lt;/button&gt;&lt;/div&gt;
+
+						&lt;div aria-labelledby=&quot;collapse-item-1&quot; class=&quot;accordion-collapse collapse show&quot; data-bs-parent=&quot;#faqAccordion&quot; id=&quot;collapse-1&quot;&gt;
+							&lt;div class=&quot;accordion-body&quot;&gt;
+								&lt;p class=&quot;faq-text&quot;&gt;AlessionTech is a full-service digital agency. We specialize in design, development, promotion, and ongoing support for websites, web applications, mobile apps, and more. Our services cover a wide range, including custom design, web and app development, digital marketing, and ongoing maintenance.&lt;/p&gt;
+							&lt;/div&gt;
+						&lt;/div&gt;
+					&lt;/div&gt;
+
+					&lt;div class=&quot;accordion-card style2&quot;&gt;
+						&lt;div class=&quot;accordion-header&quot; id=&quot;collapse-item-2&quot;&gt;&lt;button aria-controls=&quot;collapse-2&quot; aria-expanded=&quot;false&quot; class=&quot;accordion-button collapsed&quot; data-bs-target=&quot;#collapse-2&quot; data-bs-toggle=&quot;collapse&quot; type=&quot;button&quot;&gt;How can I get in touch with AlessionTech?&lt;/button&gt;&lt;/div&gt;
+
+						&lt;div aria-labelledby=&quot;collapse-item-2&quot; class=&quot;accordion-collapse collapse &quot; data-bs-parent=&quot;#faqAccordion&quot; id=&quot;collapse-2&quot;&gt;
+							&lt;div class=&quot;accordion-body&quot;&gt;
+								&lt;p class=&quot;faq-text&quot;&gt;ou can reach out to AlessionTech through our &lt;a href=&quot;contact-us.html&quot;&gt;Contact Us page&lt;/a&gt; on our website. Whether you have questions about our services or want to discuss a potential project, our team is ready to assist you.&lt;/p&gt;
+							&lt;/div&gt;
+						&lt;/div&gt;
+					&lt;/div&gt;
+
+					&lt;div class=&quot;accordion-card style2&quot;&gt;
+						&lt;div class=&quot;accordion-header&quot; id=&quot;collapse-item-3&quot;&gt;&lt;button aria-controls=&quot;collapse-3&quot; aria-expanded=&quot;false&quot; class=&quot;accordion-button collapsed&quot; data-bs-target=&quot;#collapse-3&quot; data-bs-toggle=&quot;collapse&quot; type=&quot;button&quot;&gt;What sets AlessionTech apart from other digital&lt;br /&gt;
+							agencies?&lt;/button&gt;&lt;/div&gt;
+
+						&lt;div aria-labelledby=&quot;collapse-item-3&quot; class=&quot;accordion-collapse collapse &quot; data-bs-parent=&quot;#faqAccordion&quot; id=&quot;collapse-3&quot;&gt;
+							&lt;div class=&quot;accordion-body&quot;&gt;
+								&lt;p class=&quot;faq-text&quot;&gt;AlessionTech distinguishes itself through a combination of creative excellence, technological innovation, and a client-centric approach. Our collaborative mindset, commitment to results, and continuous pursuit of excellence make us stand out in the digital landscape.&lt;/p&gt;
+							&lt;/div&gt;
+						&lt;/div&gt;
+					&lt;/div&gt;
+
+					&lt;div class=&quot;accordion-card style2&quot;&gt;
+						&lt;div class=&quot;accordion-header&quot; id=&quot;collapse-item-4&quot;&gt;&lt;button aria-controls=&quot;collapse-4&quot; aria-expanded=&quot;false&quot; class=&quot;accordion-button collapsed&quot; data-bs-target=&quot;#collapse-4&quot; data-bs-toggle=&quot;collapse&quot; type=&quot;button&quot;&gt;How long does it take for AlessionTech to complete a project?&lt;/button&gt;&lt;/div&gt;
+
+						&lt;div aria-labelledby=&quot;collapse-item-4&quot; class=&quot;accordion-collapse collapse &quot; data-bs-parent=&quot;#faqAccordion&quot; id=&quot;collapse-4&quot;&gt;
+							&lt;div class=&quot;accordion-body&quot;&gt;
+								&lt;p class=&quot;faq-text&quot;&gt;Project timelines vary based on the scope and complexity of the project. During the initial consultation, we discuss your timeline expectations, and our team provides a detailed project plan outlining milestones and delivery timelines.&lt;/p&gt;
+							&lt;/div&gt;
+						&lt;/div&gt;
+					&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;feature-area-1 space-bottom&quot;&gt;
+	&lt;div class=&quot;container&quot;&gt;
+		&lt;div class=&quot;row gy-4 align-items-center justify-content-center&quot;&gt;
+			&lt;div class=&quot;col-xxl-6 col-xl-6&quot;&gt;
+				&lt;div class=&quot;feature-card style-grid&quot;&gt;
+					&lt;div class=&quot;feature-card-icon&quot;&gt;&lt;img alt=&quot;icon&quot; src=&quot;assets/img/icon/phone.svg&quot; /&gt;&lt;/div&gt;
+
+					&lt;div class=&quot;feature-card-details&quot;&gt;
+						&lt;h4 class=&quot;feature-card-title&quot;&gt;&lt;a href=&quot;project.html&quot;&gt;Contact with Us&lt;/a&gt;&lt;/h4&gt;
+
+						&lt;p class=&quot;feature-card-text&quot;&gt;Good website tells a story that will make users fully immerse themselves operating&lt;/p&gt;
+						&lt;a class=&quot;link-btn&quot; href=&quot;tel:1800123654987&quot;&gt;&lt;span class=&quot;link-effect&quot;&gt; &lt;span class=&quot;effect-1&quot;&gt;+254 713 27 87 47&lt;/span&gt; &lt;span class=&quot;effect-1&quot;&gt;+254 713 27 87 47&lt;/span&gt; &lt;/span&gt; &lt;img alt=&quot;icon&quot; src=&quot;assets/img/icon/arrow-left-top.svg&quot; /&gt; &lt;/a&gt;&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+
+			&lt;div class=&quot;col-xxl-6 col-xl-6&quot;&gt;
+				&lt;div class=&quot;feature-card style-grid&quot;&gt;
+					&lt;div class=&quot;feature-card-icon&quot;&gt;&lt;img alt=&quot;icon&quot; src=&quot;assets/img/icon/speech-bubble.svg&quot; /&gt;&lt;/div&gt;
+
+					&lt;div class=&quot;feature-card-details&quot;&gt;
+						&lt;h4 class=&quot;feature-card-title&quot;&gt;&lt;a href=&quot;project.html&quot;&gt;Send a Message&lt;/a&gt;&lt;/h4&gt;
+
+						&lt;p class=&quot;feature-card-text&quot;&gt;Good website tells a story that will make users fully immerse themselves operating&lt;/p&gt;
+						&lt;a class=&quot;link-btn&quot; href=&quot;mailto:info@alessiontech.com&quot;&gt;&lt;span class=&quot;link-effect&quot;&gt; &lt;span class=&quot;effect-1&quot;&gt;info@alessiontech.com&lt;/span&gt; &lt;span class=&quot;effect-1&quot;&gt;info@alessiontech.com&lt;/span&gt; &lt;/span&gt; &lt;img alt=&quot;icon&quot; src=&quot;assets/img/icon/arrow-left-top.svg&quot; /&gt; &lt;/a&gt;&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;container-fluid p-0 overflow-hidden&quot;&gt;
+	&lt;div class=&quot;slider__marquee clearfix marquee-wrap&quot;&gt;
+		&lt;div class=&quot;marquee_mode marquee__group&quot;&gt;
+			&lt;h6 class=&quot;item m-item&quot;&gt;&lt;a href=&quot;about-us.html&quot;&gt;&lt;i class=&quot;fas fa-star-of-life&quot;&gt;&lt;/i&gt; You Think it&lt;/a&gt;&lt;/h6&gt;
+
+			&lt;h6 class=&quot;item m-item&quot;&gt;&lt;a href=&quot;about-us.html&quot;&gt;&lt;i class=&quot;fas fa-star-of-life&quot;&gt;&lt;/i&gt; We Geek it&lt;/a&gt;&lt;/h6&gt;
+
+			&lt;h6 class=&quot;item m-item&quot;&gt;&lt;a href=&quot;about-us.html&quot;&gt;&lt;i class=&quot;fas fa-star-of-life&quot;&gt;&lt;/i&gt; You Think it&lt;/a&gt;&lt;/h6&gt;
+
+			&lt;h6 class=&quot;item m-item&quot;&gt;&lt;a href=&quot;about-us.html&quot;&gt;&lt;i class=&quot;fas fa-star-of-life&quot;&gt;&lt;/i&gt; We Geek it&lt;/a&gt;&lt;/h6&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+]]></content><private><![CDATA[]]></private><author><![CDATA[admin]]></author></item>

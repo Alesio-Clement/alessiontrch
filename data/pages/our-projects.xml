@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Mon, 02 Sep 2024 17:50:52 +0200</pubDate><title><![CDATA[our-projects]]></title><url><![CDATA[our-projects]]></url><meta><![CDATA[]]></meta><metad><![CDATA[]]></metad><menu><![CDATA[]]></menu><menuOrder><![CDATA[0]]></menuOrder><menuStatus><![CDATA[]]></menuStatus><template><![CDATA[template.php]]></template><parent><![CDATA[]]></parent><content><![CDATA[
+ <div class="breadcumb-wrapper " data-bg-src="../data/uploads/projects.jpg">
+        <div class="container">
+            <div class="breadcumb-content">
+                <h1 class="breadcumb-title">Our Projects</h1>
+            </div>
+        </div>
+    </div>
+
+    <div class="portfolio-area-1 space overflow-hidden">
+        <div class="container">
+            <div class="row gy-4 justify-content-center">
+                <div class="col-lg-7">
+                    <a href="https://kakaanstudio.com/" target="_blank" class="portfolio-wrap style3">
+                        <div class="portfolio-thumb">
+                            <img src="../data/uploads/project-1.png" alt="portfolio">
+                        </div>
+                        <div class="portfolio-details">
+                
+                            <h3 class="portfolio-title">Kakaan Design Studio</h3>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-lg-5">
+                    <a href="https://fitsoko.com/"  target="_blank"  class="portfolio-wrap style3">
+                        <div class="portfolio-thumb">
+                            <img src="../data/uploads/project-soko.png" alt="portfolio">
+                        </div>
+                        <div class="portfolio-details">
+                            
+                            <h3 class="portfolio-title">Fitsko</h3>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-lg-12">
+                    <a href="https://heerasheabutter.com/"  target="_blank" class="portfolio-wrap style3">
+                        <div class="portfolio-thumb">
+                            <img src="../data/uploads/heera-project.png" alt="portfolio">
+                        </div>
+                        <div class="portfolio-details">
+                            
+                            <h3 class="portfolio-title">Heera SheaButter</h3>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-lg-5">
+                    <a href="https://xeone.com/"  target="_blank" class="portfolio-wrap style3">
+                        <div class="portfolio-thumb">
+                            <img src="../data/uploads/xeone-project.png" alt="portfolio">
+                        </div>
+                        <div class="portfolio-details">
+                            
+                            <h3 class="portfolio-title">XeOne</h3>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-lg-7">
+                    <a href="https://thaminibinti.org/"  target="_blank" class="portfolio-wrap style3">
+                        <div class="portfolio-thumb">
+                            <img src="../data/uploads/thamini-project.png" alt="portfolio">
+                        </div>
+                        <div class="portfolio-details">
+                            
+                            <h3 class="portfolio-title">Thamini Binti</h3>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-lg-12">
+                    <a href="https://beverlymumbo.com/"  target="_blank"" class="portfolio-wrap style3">
+                        <div class="portfolio-thumb">
+                            <img src="../data/uploads/bev-project.png" alt="portfolio">
+                        </div>
+                        <div class="portfolio-details">
+                           
+                            <h3 class="portfolio-title">Beverly Mumbo</h3>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-lg-7">
+                    <a href="https://kakaanstudio.com/" target="_blank" class="portfolio-wrap style3">
+                        <div class="portfolio-thumb">
+                            <img src="../data/uploads/augusta-project.png" alt="portfolio">
+                        </div>
+                        <div class="portfolio-details">
+                
+                            <h3 class="portfolio-title">Augusta Software House</h3>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-lg-5">
+                    <a href="https://ajiratelematics.co.ke/"  target="_blank"  class="portfolio-wrap style3">
+                        <div class="portfolio-thumb">
+                            <img src="../data/uploads/ajira-project.png" alt="portfolio">
+                        </div>
+                        <div class="portfolio-details">
+                            
+                            <h3 class="portfolio-title">Ajira Telematics</h3>
+                        </div>
+                    </a>
+                </div>
+            </div>
+            
+        </div>
+    </div>
+
+    <div class="container-fluid p-0 overflow-hidden">
+        <div class="slider__marquee clearfix marquee-wrap">
+            <div class="marquee_mode marquee__group">
+                <h6 class="item m-item"><a href="about-us.html"><i class="fas fa-star-of-life"></i> You Think it</a></h6>
+                <h6 class="item m-item"><a href="about-us.html"><i class="fas fa-star-of-life"></i> We Geek it</a></h6>
+                <h6 class="item m-item"><a href="about-us.html"><i class="fas fa-star-of-life"></i> You Think it</a></h6>
+                <h6 class="item m-item"><a href="about-us.html"><i class="fas fa-star-of-life"></i> We Geek it</a></h6>
+            </div>
+        </div>
+    </div>
+]]></content><private><![CDATA[]]></private><author><![CDATA[admin]]></author></item>

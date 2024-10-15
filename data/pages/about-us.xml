@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Mon, 02 Sep 2024 17:04:51 +0200</pubDate><title><![CDATA[about-us]]></title><url><![CDATA[about-us]]></url><meta><![CDATA[]]></meta><metad><![CDATA[]]></metad><menu><![CDATA[]]></menu><menuOrder><![CDATA[0]]></menuOrder><menuStatus><![CDATA[]]></menuStatus><template><![CDATA[template.php]]></template><parent><![CDATA[]]></parent><content><![CDATA[
+
+&lt;div class=&quot;breadcumb-wrapper&quot; data-bg-src=&quot;../data/uploads/about-us.jpg&quot;&gt;
+	&lt;div class=&quot;container&quot;&gt;
+		&lt;div class=&quot;breadcumb-content&quot;&gt;
+			&lt;h1 class=&quot;breadcumb-title&quot;&gt;About Us&lt;/h1&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;counter-area-1 space overflow-hidden&quot;&gt;
+	&lt;div class=&quot;container&quot;&gt;
+		&lt;div class=&quot;col-lg-12&quot;&gt;
+			&lt;div class=&quot;mb-5 text-center&quot;&gt;
+				&lt;h3 class=&quot;counter-card_title&quot;&gt;Great tech companies are built on great products and services.&lt;/h3&gt;
+
+				&lt;p class=&quot;counter-card_text&quot;&gt;At AlessionTech, we are passionate about delivering exceptional software design and development solutions that drive success for businesses of all sizes. Our mission is to harness the power of cutting-edge technology to create innovative, reliable, and efficient solutions tailored to meet your unique needs&lt;/p&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+
+		&lt;div class=&quot;row gy-40 align-items-center justify-content-lg-between justify-content-center&quot;&gt;
+			&lt;div class=&quot;col-xl-auto col-lg-4 col-md-6 counter-divider&quot;&gt;
+				&lt;div class=&quot;counter-card&quot;&gt;
+					&lt;h3 class=&quot;counter-card_number&quot;&gt;&lt;span class=&quot;counter-number&quot;&gt;8&lt;/span&gt;+&lt;/h3&gt;
+
+					&lt;h4 class=&quot;counter-card_title&quot;&gt;Years of Experience&lt;/h4&gt;
+
+					&lt;p class=&quot;counter-card_text&quot;&gt;We excel in delivering innovative and reliable technology solutions, tackling challenges with confidence and expertise.&lt;/p&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+
+			&lt;div class=&quot;col-xl-auto col-lg-4 col-md-6 counter-divider&quot;&gt;
+				&lt;div class=&quot;counter-card&quot;&gt;
+					&lt;h3 class=&quot;counter-card_number&quot;&gt;&lt;span class=&quot;counter-number&quot;&gt;50&lt;/span&gt;+&lt;/h3&gt;
+
+					&lt;h4 class=&quot;counter-card_title&quot;&gt;Successful Projects&lt;/h4&gt;
+
+					&lt;p class=&quot;counter-card_text&quot;&gt;We have a proven track record of delivering impactful and effective technology solutions.&lt;/p&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+
+			&lt;div class=&quot;col-xl-auto col-lg-4 col-md-6 counter-divider&quot;&gt;
+				&lt;div class=&quot;counter-card&quot;&gt;
+					&lt;h3 class=&quot;counter-card_number&quot;&gt;&lt;span class=&quot;counter-number&quot;&gt;50&lt;/span&gt;+&lt;/h3&gt;
+
+					&lt;h4 class=&quot;counter-card_title&quot;&gt;Satisfied Customers&lt;/h4&gt;
+
+					&lt;p class=&quot;counter-card_text&quot;&gt;We are committed to delivering exceptional service and exceeding client expectations.&lt;/p&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;why-area-1 space bg-theme&quot;&gt;
+	&lt;div class=&quot;why-img-1-1 shape-mockup wow img-custom-anim-right&quot; data-bottom=&quot;140px&quot; data-right=&quot;0&quot; data-top=&quot;-100px&quot; data-wow-delay=&quot;0.2s&quot; data-wow-duration=&quot;1.5s&quot;&gt;&lt;img alt=&quot;img&quot; src=&quot;../data/uploads/why-choose.jpg&quot; /&gt;&lt;/div&gt;
+
+	&lt;div class=&quot;container&quot;&gt;
+		&lt;div class=&quot;row&quot;&gt;
+			&lt;div class=&quot;col-lg-6&quot;&gt;
+				&lt;div class=&quot;title-area mb-45&quot;&gt;
+					&lt;h3 class=&quot;sec-title&quot;&gt;Why Choose AlessionTech?&lt;/h3&gt;
+				&lt;/div&gt;
+
+				&lt;h4&gt;Innovation at the Core&lt;/h4&gt;
+
+				&lt;p&gt;Innovation isn&#039;t just a word; it&#039;s our driving force. AlessionTech is a hub of creativity and forward-thinking, where we embrace new technologies and ideas to keep you ahead in the digital landscape.&lt;/p&gt;
+
+				&lt;h4 class=&quot;mt-35&quot;&gt;Collaborative Approach&lt;/h4&gt;
+
+				&lt;p class=&quot;mb-n1&quot;&gt;Your vision is our priority. We work closely with you, ensuring transparency and effective communication throughout the project lifecycle.&lt;/p&gt;
+
+				&lt;h4 class=&quot;mt-35&quot;&gt;Global Reach, Local Touch&lt;/h4&gt;
+
+				&lt;p class=&quot;mb-n1&quot;&gt;With a global perspective and a local approach, we navigate the complexities of diverse markets, ensuring your digital solutions resonate with your target audience worldwide.&lt;/p&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;client-area-1 overflow-hidden space&quot;&gt;
+	&lt;div class=&quot;container&quot;&gt;
+		&lt;div class=&quot;row justify-content-center&quot;&gt;
+			&lt;div class=&quot;col-xl-8&quot;&gt;
+				&lt;ul class=&quot;client-list-wrap&quot;&gt;
+					&lt;li&gt;&lt;a href=&quot;https://kakaanstudio.com/&quot; target=&quot;_blank&quot;&gt;&lt;span class=&quot;link-effect&quot;&gt; &lt;span class=&quot;effect-1&quot;&gt;&lt;img alt=&quot;img&quot; src=&quot;../data/uploads/kakaan-logo.png&quot; /&gt;&lt;/span&gt; &lt;span class=&quot;effect-1&quot;&gt;&lt;img alt=&quot;img&quot; src=&quot;../data/uploads/kakaan-logo.png&quot; /&gt;&lt;/span&gt; &lt;/span&gt; &lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href=&quot;https://fitsoko.com/&quot; target=&quot;_blank&quot;&gt;&lt;span class=&quot;link-effect&quot;&gt; &lt;span class=&quot;effect-1&quot;&gt;&lt;img alt=&quot;img&quot; src=&quot;../data/uploads/fisoko-logo.png&quot; /&gt;&lt;/span&gt; &lt;span class=&quot;effect-1&quot;&gt;&lt;img alt=&quot;img&quot; src=&quot;../data/uploads/fisoko-logo.png&quot; /&gt;&lt;/span&gt; &lt;/span&gt; &lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href=&quot;https://xeone.com/&quot; target=&quot;_blank&quot;&gt;&lt;span class=&quot;link-effect&quot;&gt; &lt;span class=&quot;effect-1&quot;&gt;&lt;img alt=&quot;img&quot; src=&quot;../data/uploads/xeone.svg&quot; /&gt;&lt;/span&gt; &lt;span class=&quot;effect-1&quot;&gt;&lt;img alt=&quot;img&quot; src=&quot;../data/uploads/xeone.svg&quot; /&gt;&lt;/span&gt; &lt;/span&gt; &lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href=&quot;https://thaminibinti.org/&quot; target=&quot;_blank&quot;&gt;&lt;span class=&quot;link-effect&quot;&gt; &lt;span class=&quot;effect-1&quot;&gt;&lt;img alt=&quot;img&quot; src=&quot;../data/uploads/thamini-b.png&quot; /&gt;&lt;/span&gt; &lt;span class=&quot;effect-1&quot;&gt;&lt;img alt=&quot;img&quot; src=&quot;../data/uploads/thamini-b.png&quot; /&gt;&lt;/span&gt; &lt;/span&gt; &lt;/a&gt;&lt;/li&gt;
+				&lt;/ul&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;container-fluid p-0 overflow-hidden&quot;&gt;
+	&lt;div class=&quot;slider__marquee clearfix marquee-wrap&quot;&gt;
+		&lt;div class=&quot;marquee_mode marquee__group&quot;&gt;
+			&lt;h6 class=&quot;item m-item&quot;&gt;&lt;a href=&quot;about-us.html&quot;&gt;&lt;i class=&quot;fas fa-star-of-life&quot;&gt;&lt;/i&gt; You Think it&lt;/a&gt;&lt;/h6&gt;
+
+			&lt;h6 class=&quot;item m-item&quot;&gt;&lt;a href=&quot;about-us.html&quot;&gt;&lt;i class=&quot;fas fa-star-of-life&quot;&gt;&lt;/i&gt; We Geek it&lt;/a&gt;&lt;/h6&gt;
+
+			&lt;h6 class=&quot;item m-item&quot;&gt;&lt;a href=&quot;about-us.html&quot;&gt;&lt;i class=&quot;fas fa-star-of-life&quot;&gt;&lt;/i&gt; You Think it&lt;/a&gt;&lt;/h6&gt;
+
+			&lt;h6 class=&quot;item m-item&quot;&gt;&lt;a href=&quot;about-us.html&quot;&gt;&lt;i class=&quot;fas fa-star-of-life&quot;&gt;&lt;/i&gt; We Geek it&lt;/a&gt;&lt;/h6&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+]]></content><private><![CDATA[]]></private><author><![CDATA[admin]]></author></item>
