@@ -54,7 +54,7 @@
                     <div class="col-xxl-6 col-lg-5 text-lg-end">
                         <ul class="footer-menu-list">
                             <li>
-                                <a href="<?php get_site_url(); ?>">
+                                <a href="https://blog.alessiontech.com/">
                                     <span class="link-effect">
                                         <span class="effect-1">BLOG</span>
                                         <span class="effect-1">BLOG</span>
@@ -79,7 +79,7 @@
                 <div class="row gy-3 justify-content-between align-items-center">
                     <div class="col-md-6">
                         <div class="social-btn style3">
-                            <a href="#" target="_blank">
+                            <a href="https://www.facebook.com/alessiontechnology" target="_blank">
                                 <span class="link-effect">
                                     <span class="effect-1"><i class="fab fa-facebook"></i></span>
                                     <span class="effect-1"><i class="fab fa-facebook"></i></span>
@@ -97,7 +97,7 @@
                                     <span class="effect-1"><i class="fab fa-twitter"></i></span>
                                 </span>
                             </a>
-                            <a href="#">
+                            <a href="https://www.linkedin.com/company/alessiontech/" target="_blank">
                                 <span class="link-effect">
                                     <span class="effect-1"><i class="fab fa-linkedin"></i></span>
                                     <span class="effect-1"><i class="fab fa-linkedin"></i></span>

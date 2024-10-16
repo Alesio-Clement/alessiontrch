@@ -138,10 +138,10 @@
                         <span class="effect-1"><i class="fab fa-twitter"></i></span>
                     </span>
                 </a>
-                <a href="https://dribbble.com/">
+                <a href="https://www.linkedin.com/company/alessiontech/" target="_blank">
                     <span class="link-effect">
-                        <span class="effect-1"><i class="fab fa-dribbble"></i></span>
-                        <span class="effect-1"><i class="fab fa-dribbble"></i></span>
+                        <span class="effect-1"><i class="fab fa-linkedin"></i></span>
+                        <span class="effect-1"><i class="fab fa-linkedin"></i></span>
                     </span>
                 </a>
             </div>
@@ -182,7 +182,7 @@
 
 
                     <li>
-                        <a href="<?php get_site_url(); ?>">OUR BLOG</a>
+                        <a href="https://blog.alessiontech.com/">OUR BLOG</a>
                     </li>
 
                     
