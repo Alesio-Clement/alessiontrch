@@ -106,7 +106,7 @@
 
 
                     <li>
-                        <a href="<?php get_site_url(); ?>">OUR BLOG</a>
+                        <a href="https://blog.alessiontech.com/">OUR BLOG</a>
                     </li>
 
                     
