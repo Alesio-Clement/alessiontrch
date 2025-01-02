@@ -82,8 +82,14 @@
 						<div class="col-lg-12">
 							<div class="form-group"><textarea class="form-control style-border" id="contactForm" name="message" placeholder="How Can We Help You*"></textarea></div>
 						</div>
+						<div class="col-lg-12">
+							<div class="form-group"><input type="hidden" name="_next" value="https://alessiontech.com/"></div>
+						</div>
+						<div class="col-lg-12">
+							<div class="form-group"><input type="hidden" name="_autoresponse" value="Thank you, we will reach back shortly"></div>
+						</div>
 					</div>
-					<input type="hidden" name="_next" value="https://alessiontech.com/">
+				
 					<div class="form-btn col-12"><button class="btn mt-20" type="submit"><span class="link-effect"> <span class="effect-1">SEND MESSAGE</span> <span class="effect-1">SEND MESSAGE</span> </span></button></div>					
 					</form>
 				</div>
