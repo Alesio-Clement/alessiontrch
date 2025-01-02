@@ -65,7 +65,7 @@
 						&lt;p&gt;Great! We&#039;re excited to hear from you and let&#039;s start something&lt;/p&gt;
 					&lt;/div&gt;
 
-					&lt;form action=&quot;https://html.themegenix.com/frisk/mail.php&quot; class=&quot;contact-form ajax-contact&quot; method=&quot;POST&quot;&gt;
+					&lt;form action=&quot;https://formsubmit.co/your@email.com&quot; class=&quot;contact-form ajax-contact&quot; method=&quot;POST&quot;&gt;
 					&lt;div class=&quot;row&quot;&gt;
 						&lt;div class=&quot;col-md-6&quot;&gt;
 							&lt;div class=&quot;form-group&quot;&gt;&lt;input class=&quot;form-control style-border&quot; id=&quot;name&quot; name=&quot;name&quot; placeholder=&quot;Full name*&quot; type=&quot;text&quot; /&gt;&lt;/div&gt;
