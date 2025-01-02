@@ -84,8 +84,7 @@
 						</div>
 					</div>
 					<input type="hidden" name="_next" value="https://alessiontech.com/">
-					<div class="form-btn col-12"><button class="btn mt-20" type="submit"><span class="link-effect"> <span class="effect-1">SEND MESSAGE</span> <span class="effect-1">SEND MESSAGE</span> </span></button></div>
-					
+					<div class="form-btn col-12"><button class="btn mt-20" type="submit"><span class="link-effect"> <span class="effect-1">SEND MESSAGE</span> <span class="effect-1">SEND MESSAGE</span> </span></button></div>					
 					</form>
 				</div>
 			</div>
