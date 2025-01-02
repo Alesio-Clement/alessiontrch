@@ -65,7 +65,7 @@
 						<p>Great! We're excited to hear from you and let's start something</p>
 					</div>
 
-					<form action="https://formsubmit.co/clement.alesio1@gmail.com" class="contact-form ajax-contact">
+					<form method="POST"  action="https://formsubmit.co/clement.alesio1@gmail.com" class="contact-form ajax-contact" enctype="multipart/form-data">
 					<div class="row">
 						<div class="col-md-6">
 							<div class="form-group"><input class="form-control style-border" id="name" name="name" placeholder="Full name*" type="text" /></div>
