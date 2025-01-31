@@ -106,10 +106,14 @@
                         </div>
                     </div>
                     <div class="col-md-6 align-self-center text-lg-end">
-                        <p class="copyright-text">Copyright © 2024
-                            <a href="www.alessiontech.com">AlessionTech</a>
-                        </p>
-                    </div>
+                    <p class="copyright-text">Copyright © <span id="current-year"></span>
+                        <a href="www.alessiontech.com">AlessionTech</a>
+                    </p>
+                </div>
+
+                    <script>
+                        document.getElementById("current-year").textContent = new Date().getFullYear();
+                    </script>
                 </div>
             </div>
         </div>
