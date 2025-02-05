@@ -32,10 +32,10 @@
 					&lt;div class=&quot;feature-card-icon&quot;&gt;&lt;img alt=&quot;icon&quot; width=&quot;40px&quot; height=&quot;40px&quot; src=&quot;../data/uploads/icon/app-logo.png&quot; /&gt;&lt;/div&gt;
 
 					&lt;div class=&quot;feature-card-details&quot;&gt;
-						&lt;h4 class=&quot;feature-card-title&quot;&gt;&lt;a href=&quot;digital-marketing/&quot;&gt;Mobile App Development&lt;/a&gt;&lt;/h4&gt;
+						&lt;h4 class=&quot;feature-card-title&quot;&gt;&lt;a href=&quot;mobile-app/&quot;&gt;Mobile App Development&lt;/a&gt;&lt;/h4&gt;
 
 						&lt;p class=&quot;feature-card-text&quot;&gt;Learn to build powerful mobile apps from scratch! Master UI/UX design, front-end and back-end development, and app deployment. Perfect for beginners and aspiring developers.&lt;/p&gt;
-						&lt;a class=&quot;link-btn&quot; href=&quot;web-development-with-wordpress/&quot;&gt;&lt;span class=&quot;link-effect&quot;&gt; &lt;span class=&quot;effect-1&quot;&gt;Learn More!&lt;/span&gt; &lt;span class=&quot;effect-1&quot;&gt;Learn More!&lt;/span&gt; &lt;/span&gt; &lt;img alt=&quot;icon&quot; src=&quot;../data/uploads/icon/arrow-left-top.svg&quot; /&gt; &lt;/a&gt;
+						&lt;a class=&quot;link-btn&quot; href=&quot;mobile-app/&quot;&gt;&lt;span class=&quot;link-effect&quot;&gt; &lt;span class=&quot;effect-1&quot;&gt;Learn More!&lt;/span&gt; &lt;span class=&quot;effect-1&quot;&gt;Learn More!&lt;/span&gt; &lt;/span&gt; &lt;img alt=&quot;icon&quot; src=&quot;../data/uploads/icon/arrow-left-top.svg&quot; /&gt; &lt;/a&gt;
 						&lt;a class=&quot;link-btn mx-2&quot; target=&quot;_blank&quot; href=&quot;https://docs.google.com/forms/d/e/1FAIpQLSeAqT30Ub-3egZChXBjY5IhAuBqK0wng3GT4lQwLNYBztO4GA/viewform?usp=header&quot;&gt;&lt;span class=&quot;link-effect&quot;&gt; &lt;span class=&quot;effect-1&quot;&gt;Enroll now!&lt;/span&gt; &lt;span class=&quot;effect-1&quot;&gt;Enroll now!&lt;/span&gt; &lt;/span&gt; &lt;img alt=&quot;icon&quot; src=&quot;../data/uploads/icon/arrow-left-top.svg&quot; /&gt; &lt;/a&gt;
 
 						&lt;/div&gt;

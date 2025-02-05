@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Wed, 05 Feb 2025 15:31:21 +0100</pubDate><title><![CDATA[mobile-app]]></title><url><![CDATA[mobile-app]]></url><meta><![CDATA[]]></meta><metad><![CDATA[]]></metad><menu><![CDATA[]]></menu><menuOrder><![CDATA[0]]></menuOrder><menuStatus><![CDATA[]]></menuStatus><template><![CDATA[template.php]]></template><parent><![CDATA[]]></parent><content><![CDATA[&lt;div class=&quot;breadcumb-wrapper style2 bg-smoke&quot;&gt;
+	&lt;div class=&quot;container-fluid&quot;&gt;
+		&lt;div class=&quot;breadcumb-content&quot;&gt;
+			&lt;ul class=&quot;breadcumb-menu&quot;&gt;
+				&lt;li&gt;&lt;a href=&quot;&quot;&gt;Home&lt;/a&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;a href=&quot;/academy&quot;&gt;Academy&lt;/a&gt;&lt;/li&gt;
+				&lt;li&gt;Mobile App Development&lt;/li&gt;
+			&lt;/ul&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;service-details-page-area mt-5 &quot;&gt;
+	&lt;div class=&quot;container&quot;&gt;
+		&lt;div class=&quot;row align-items-center justify-content-center&quot;&gt;
+			&lt;div class=&quot;col-xl-8&quot;&gt;
+				&lt;div class=&quot;title-area mb-35&quot;&gt;
+					&lt;h4 class=&quot;s&quot;&gt;Mobile App Development&lt;/h4&gt;
+
+					&lt;p class=&quot;sec-text mt-30&quot;&gt;Learn to build powerful and interactive mobile applications using Flutter and React Native. This course covers UI design, API integration, database management, and deployment. Perfect for beginners and aspiring mobile developers.&lt;/p&gt;
+
+					&lt;p class=&quot;sec-text mt-20&quot;&gt;&lt;strong&gt;Price:&lt;/strong&gt; 35,000 Ksh | &lt;strong&gt;Duration:&lt;/strong&gt; 3 Months&lt;/p&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+
+			&lt;div class=&quot;col-xl-8&quot;&gt;
+				&lt;h3 class=&quot;mt-35&quot;&gt;What You’ll Learn&lt;/h3&gt;
+
+				&lt;div class=&quot;row gy-4&quot;&gt;
+					&lt;div class=&quot;col-md-12&quot;&gt;
+						&lt;div class=&quot;feature-card&quot;&gt;
+							&lt;h4 class=&quot;feature-card-title&quot;&gt;&lt;a href=&quot;&quot;&gt;1. Introduction to Mobile Development&lt;/a&gt;&lt;/h4&gt;
+
+							&lt;p class=&quot;feature-card-text mb-n2&quot;&gt;Understand mobile development fundamentals, frameworks, and tools used in the industry.&lt;/p&gt;
+						&lt;/div&gt;
+					&lt;/div&gt;
+
+					&lt;div class=&quot;col-md-12&quot;&gt;
+						&lt;div class=&quot;feature-card&quot;&gt;
+							&lt;h4 class=&quot;feature-card-title&quot;&gt;&lt;a href=&quot;&quot;&gt;2. UI/UX Design for Mobile Apps&lt;/a&gt;&lt;/h4&gt;
+
+							&lt;p class=&quot;feature-card-text mb-n2&quot;&gt;Learn how to design engaging and user-friendly interfaces using Flutter and React Native.&lt;/p&gt;
+						&lt;/div&gt;
+					&lt;/div&gt;
+
+					&lt;div class=&quot;col-md-12&quot;&gt;
+						&lt;div class=&quot;feature-card&quot;&gt;
+							&lt;h4 class=&quot;feature-card-title&quot;&gt;&lt;a href=&quot;&quot;&gt;3. API Integration &amp;amp; Database Management&lt;/a&gt;&lt;/h4&gt;
+
+							&lt;p class=&quot;feature-card-text mb-n2&quot;&gt;Connect your app to APIs and manage data efficiently using Firebase and other database solutions.&lt;/p&gt;
+						&lt;/div&gt;
+					&lt;/div&gt;
+
+					&lt;div class=&quot;col-md-12&quot;&gt;
+						&lt;div class=&quot;feature-card&quot;&gt;
+							&lt;h4 class=&quot;feature-card-title&quot;&gt;&lt;a href=&quot;&quot;&gt;4. Deployment &amp;amp; App Store Submission&lt;/a&gt;&lt;/h4&gt;
+
+							&lt;p class=&quot;feature-card-text mb-n2&quot;&gt;Publish your mobile app on the Google Play Store and Apple App Store.&lt;/p&gt;
+						&lt;/div&gt;
+					&lt;/div&gt;
+				&lt;/div&gt;
+
+				&lt;h3 class=&quot;mt-35&quot;&gt;Get Started Today!&lt;/h3&gt;
+
+				&lt;p class=&quot;sec-text mb-n1 mt-10&quot;&gt;Kickstart your journey in mobile app development with our hands-on course. &lt;a class=&quot;fw-bolder text-dark text-underline&quot; href=&quot;https://forms.gle/4ZMzFjX7JF4Baf6w9&quot; target=&quot;_blank&quot;&gt;Enroll now&lt;/a&gt; and start building amazing apps!&lt;/p&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;container-fluid mt-5 p-0 overflow-hidden&quot;&gt;
+	&lt;div class=&quot;slider__marquee clearfix marquee-wrap&quot;&gt;
+		&lt;div class=&quot;marquee_mode marquee__group&quot;&gt;
+			&lt;h6 class=&quot;item m-item&quot;&gt;&lt;a href=&quot;about-us.html&quot;&gt;&lt;i class=&quot;fas fa-star-of-life&quot;&gt;&lt;/i&gt; You Think it&lt;/a&gt;&lt;/h6&gt;
+
+			&lt;h6 class=&quot;item m-item&quot;&gt;&lt;a href=&quot;about-us.html&quot;&gt;&lt;i class=&quot;fas fa-star-of-life&quot;&gt;&lt;/i&gt; We Geek it&lt;/a&gt;&lt;/h6&gt;
+
+			&lt;h6 class=&quot;item m-item&quot;&gt;&lt;a href=&quot;about-us.html&quot;&gt;&lt;i class=&quot;fas fa-star-of-life&quot;&gt;&lt;/i&gt; You Think it&lt;/a&gt;&lt;/h6&gt;
+
+			&lt;h6 class=&quot;item m-item&quot;&gt;&lt;a href=&quot;about-us.html&quot;&gt;&lt;i class=&quot;fas fa-star-of-life&quot;&gt;&lt;/i&gt; We Geek it&lt;/a&gt;&lt;/h6&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+]]></content><private><![CDATA[]]></private><author><![CDATA[admin]]></author></item>
