@@ -97,6 +97,10 @@
                     </li>
 
                     <li>
+                        <a href="<?php get_site_url(); ?>academy/">ACADEMY</a>
+                    </li>
+
+                    <li>
                         <a href="<?php get_site_url(); ?>our-services/">OUR SERVICES</a>
                     </li>
 
@@ -170,6 +174,10 @@
 
                     <li>
                         <a href="<?php get_site_url(); ?>about-us/">ABOUT US</a>
+                    </li>
+
+                    <li>
+                        <a href="<?php get_site_url(); ?>academy/">ACADEMY</a>
                     </li>
 
                     <li>

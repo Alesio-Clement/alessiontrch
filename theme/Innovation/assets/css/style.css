@@ -5110,7 +5110,7 @@ ul.wp-block-latest-posts li:last-child {
   position: relative;
   font-weight: 600;
   font-family: var(--title-font);
-  font-size: 14px;
+  font-size: 12px;
   color: var(--title-color);
   letter-spacing: -0.14px;
 }

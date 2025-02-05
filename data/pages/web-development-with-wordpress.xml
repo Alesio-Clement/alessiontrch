@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Tue, 04 Feb 2025 10:50:14 +0100</pubDate><title><![CDATA[web-development-with-wordpress]]></title><url><![CDATA[web-development-with-wordpress]]></url><meta><![CDATA[]]></meta><metad><![CDATA[]]></metad><menu><![CDATA[web-development-with-wordpress]]></menu><menuOrder><![CDATA[0]]></menuOrder><menuStatus><![CDATA[]]></menuStatus><template><![CDATA[template.php]]></template><parent><![CDATA[]]></parent><content><![CDATA[
+&lt;div class=&quot;breadcumb-wrapper style2 bg-smoke&quot;&gt;
+	&lt;div class=&quot;container-fluid&quot;&gt;
+		&lt;div class=&quot;breadcumb-content&quot;&gt;
+			&lt;ul class=&quot;breadcumb-menu&quot;&gt;
+				&lt;li&gt;&lt;a href=&quot;&quot;&gt;Home&lt;/a&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;a href=&quot;/academy&quot;&gt;Academy&lt;/a&gt;&lt;/li&gt;
+				&lt;li&gt;Web Development with WordPress&lt;/li&gt;
+			&lt;/ul&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;service-details-page-area mt-5 &quot;&gt;
+	&lt;div class=&quot;container&quot;&gt;
+		&lt;div class=&quot;row align-items-center justify-content-center&quot;&gt;
+			
+
+			&lt;div class=&quot;col-xl-8&quot;&gt;
+				&lt;div class=&quot;title-area mb-35&quot;&gt;
+					&lt;h4 class=&quot;s&quot;&gt;Web Development with WordPress&lt;/h4&gt;
+
+					&lt;p class=&quot;sec-text mt-30&quot;&gt;Master the art of building professional websites with WordPress in just 4 sessions! This course covers everything from installation and theme customization to plugin integration and SEO optimization. Perfect for beginners and aspiring web developers looking to create stunning, functional websites.&lt;/p&gt;
+
+					&lt;p class=&quot;sec-text mt-20&quot;&gt;&lt;strong&gt;Price:&lt;/strong&gt; 8,000 Ksh | &lt;strong&gt;Duration:&lt;/strong&gt; 4 Sessions&lt;/p&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+
+			&lt;div class=&quot;col-xl-8&quot;&gt;
+				&lt;h3 class=&quot;mt-35&quot;&gt;What You’ll Learn&lt;/h3&gt;
+
+				&lt;div class=&quot;row gy-4&quot;&gt;
+					&lt;div class=&quot;col-md-12&quot;&gt;
+						&lt;div class=&quot;feature-card&quot;&gt;
+							&lt;h4 class=&quot;feature-card-title&quot;&gt;&lt;a href=&quot;&quot;&gt;1. WordPress Installation &amp;amp; Setup&lt;/a&gt;&lt;/h4&gt;
+
+							&lt;p class=&quot;feature-card-text mb-n2&quot;&gt;Learn how to install WordPress and configure essential settings to get your website up and running smoothly.&lt;/p&gt;
+						&lt;/div&gt;
+					&lt;/div&gt;
+
+					&lt;div class=&quot;col-md-12&quot;&gt;
+						&lt;div class=&quot;feature-card&quot;&gt;
+							&lt;h4 class=&quot;feature-card-title&quot;&gt;&lt;a href=&quot;&quot;&gt;2. Theme Customization&lt;/a&gt;&lt;/h4&gt;
+
+							&lt;p class=&quot;feature-card-text mb-n2&quot;&gt;Explore various themes and learn how to customize them to create a unique and visually appealing website.&lt;/p&gt;
+						&lt;/div&gt;
+					&lt;/div&gt;
+
+					&lt;div class=&quot;col-md-12&quot;&gt;
+						&lt;div class=&quot;feature-card&quot;&gt;
+							&lt;h4 class=&quot;feature-card-title&quot;&gt;&lt;a href=&quot;&quot;&gt;3. Plugin Integration&lt;/a&gt;&lt;/h4&gt;
+
+							&lt;p class=&quot;feature-card-text mb-n2&quot;&gt;Enhance your website&#039;s functionality with plugins, including contact forms, SEO tools, and security enhancements.&lt;/p&gt;
+						&lt;/div&gt;
+					&lt;/div&gt;
+
+					&lt;div class=&quot;col-md-12&quot;&gt;
+						&lt;div class=&quot;feature-card&quot;&gt;
+							&lt;h4 class=&quot;feature-card-title&quot;&gt;&lt;a href=&quot;&quot;&gt;4. SEO Optimization&lt;/a&gt;&lt;/h4&gt;
+
+							&lt;p class=&quot;feature-card-text mb-n2&quot;&gt;Boost your website’s visibility on search engines with essential SEO strategies and best practices.&lt;/p&gt;
+						&lt;/div&gt;
+					&lt;/div&gt;
+				&lt;/div&gt;
+
+				&lt;h3 class=&quot;mt-35&quot;&gt;Get Started Today!&lt;/h3&gt;
+
+				&lt;p class=&quot;sec-text mb-n1 mt-10&quot;&gt;Whether you&#039;re looking to create a personal blog, business website, or eCommerce platform, our WordPress course provides the skills you need to succeed. &lt;a class=&quot;fw-bolder text-dark text-underline&quot; target=&quot;_blank&quot;  href=&quot;https://forms.gle/4ZMzFjX7JF4Baf6w9&quot; &gt;  Enroll now &lt;/a&gt; and start your journey to becoming a WordPress expert!&lt;/p&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;container-fluid mt-5 p-0 overflow-hidden&quot;&gt;
+	&lt;div class=&quot;slider__marquee clearfix marquee-wrap&quot;&gt;
+		&lt;div class=&quot;marquee_mode marquee__group&quot;&gt;
+			&lt;h6 class=&quot;item m-item&quot;&gt;&lt;a href=&quot;about-us.html&quot;&gt;&lt;i class=&quot;fas fa-star-of-life&quot;&gt;&lt;/i&gt; You Think it&lt;/a&gt;&lt;/h6&gt;
+
+			&lt;h6 class=&quot;item m-item&quot;&gt;&lt;a href=&quot;about-us.html&quot;&gt;&lt;i class=&quot;fas fa-star-of-life&quot;&gt;&lt;/i&gt; We Geek it&lt;/a&gt;&lt;/h6&gt;
+
+			&lt;h6 class=&quot;item m-item&quot;&gt;&lt;a href=&quot;about-us.html&quot;&gt;&lt;i class=&quot;fas fa-star-of-life&quot;&gt;&lt;/i&gt; You Think it&lt;/a&gt;&lt;/h6&gt;
+
+			&lt;h6 class=&quot;item m-item&quot;&gt;&lt;a href=&quot;about-us.html&quot;&gt;&lt;i class=&quot;fas fa-star-of-life&quot;&gt;&lt;/i&gt; We Geek it&lt;/a&gt;&lt;/h6&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+]]></content><private><![CDATA[]]></private><author><![CDATA[admin]]></author></item>

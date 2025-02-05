@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Sun, 02 Feb 2025 16:03:01 +0100</pubDate><title><![CDATA[academy]]></title><url><![CDATA[academy]]></url><meta><![CDATA[]]></meta><metad><![CDATA[]]></metad><menu><![CDATA[academy]]></menu><menuOrder><![CDATA[0]]></menuOrder><menuStatus><![CDATA[]]></menuStatus><template><![CDATA[template.php]]></template><parent><![CDATA[]]></parent><content><![CDATA[
+&lt;div class=&quot;breadcumb-wrapper &quot; data-bg-src=&quot;../data/uploads/banner.jpg&quot;&gt;
+	&lt;div class=&quot;container&quot;&gt;
+		&lt;div class=&quot;breadcumb-content&quot;&gt;
+			&lt;h1 class=&quot;breadcumb-title&quot;&gt;Available courses&lt;/h1&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;feature-area-1 space&quot;&gt;
+	&lt;div class=&quot;container&quot;&gt;
+		&lt;div class=&quot;row gy-4 align-items-center &quot;&gt;	
+
+			&lt;div class=&quot;col-xxl-6 col-xl-6&quot;&gt;
+				&lt;div class=&quot;feature-card style-grid&quot;&gt;
+					&lt;div class=&quot;feature-card-icon&quot;&gt;&lt;img alt=&quot;icon&quot; width=&quot;40px&quot; height=&quot;40px&quot; src=&quot;../data/uploads/icon/web-logo.png&quot; /&gt;&lt;/div&gt;
+
+					&lt;div class=&quot;feature-card-details&quot;&gt;
+						&lt;h4 class=&quot;feature-card-title&quot;&gt;&lt;a href=&quot;web-design-and-development/&quot;&gt;HTML, CSS, Bootstrap, Java Script&lt;/a&gt;&lt;/h4&gt;
+
+						&lt;p class=&quot;feature-card-text&quot;&gt;Become a pro in web design and development! Learn HTML, CSS, Bootstrap, and JavaScript to build responsive, high-quality websites. Perfect for beginners and aspiring developers.&lt;/p&gt;
+						&lt;a class=&quot;link-btn&quot; href=&quot;web-design-and-development/&quot;&gt;&lt;span class=&quot;link-effect&quot;&gt; &lt;span class=&quot;effect-1&quot;&gt;Learn More!&lt;/span&gt; &lt;span class=&quot;effect-1&quot;&gt;Learn More!&lt;/span&gt; &lt;/span&gt; &lt;img alt=&quot;icon&quot; src=&quot;../data/uploads/icon/arrow-left-top.svg&quot; /&gt; &lt;/a&gt;
+						&lt;a class=&quot;link-btn mx-2&quot; target=&quot;_blank&quot; href=&quot;https://docs.google.com/forms/d/e/1FAIpQLSeAqT30Ub-3egZChXBjY5IhAuBqK0wng3GT4lQwLNYBztO4GA/viewform?usp=header&quot;&gt;&lt;span class=&quot;link-effect&quot;&gt; &lt;span class=&quot;effect-1&quot;&gt;Enroll now!&lt;/span&gt; &lt;span class=&quot;effect-1&quot;&gt;Enroll now!&lt;/span&gt; &lt;/span&gt; &lt;img alt=&quot;icon&quot; src=&quot;../data/uploads/icon/arrow-left-top.svg&quot; /&gt; &lt;/a&gt;
+
+						&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+
+			&lt;div class=&quot;col-xxl-6 col-xl-6 col-lg-6 col-md-6&quot;&gt;
+				&lt;div class=&quot;feature-card style-grid&quot;&gt;
+					&lt;div class=&quot;feature-card-icon&quot;&gt;&lt;img alt=&quot;icon&quot; width=&quot;40px&quot; height=&quot;40px&quot; src=&quot;../data/uploads/icon/app-logo.png&quot; /&gt;&lt;/div&gt;
+
+					&lt;div class=&quot;feature-card-details&quot;&gt;
+						&lt;h4 class=&quot;feature-card-title&quot;&gt;&lt;a href=&quot;digital-marketing/&quot;&gt;Mobile App Development&lt;/a&gt;&lt;/h4&gt;
+
+						&lt;p class=&quot;feature-card-text&quot;&gt;Learn to build powerful mobile apps from scratch! Master UI/UX design, front-end and back-end development, and app deployment. Perfect for beginners and aspiring developers.&lt;/p&gt;
+						&lt;a class=&quot;link-btn&quot; href=&quot;web-development-with-wordpress/&quot;&gt;&lt;span class=&quot;link-effect&quot;&gt; &lt;span class=&quot;effect-1&quot;&gt;Learn More!&lt;/span&gt; &lt;span class=&quot;effect-1&quot;&gt;Learn More!&lt;/span&gt; &lt;/span&gt; &lt;img alt=&quot;icon&quot; src=&quot;../data/uploads/icon/arrow-left-top.svg&quot; /&gt; &lt;/a&gt;
+						&lt;a class=&quot;link-btn mx-2&quot; target=&quot;_blank&quot; href=&quot;https://docs.google.com/forms/d/e/1FAIpQLSeAqT30Ub-3egZChXBjY5IhAuBqK0wng3GT4lQwLNYBztO4GA/viewform?usp=header&quot;&gt;&lt;span class=&quot;link-effect&quot;&gt; &lt;span class=&quot;effect-1&quot;&gt;Enroll now!&lt;/span&gt; &lt;span class=&quot;effect-1&quot;&gt;Enroll now!&lt;/span&gt; &lt;/span&gt; &lt;img alt=&quot;icon&quot; src=&quot;../data/uploads/icon/arrow-left-top.svg&quot; /&gt; &lt;/a&gt;
+
+						&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+
+			&lt;div class=&quot;col-xxl-6 col-xl-6 col-lg-6 col-md-6&quot;&gt;
+				&lt;div class=&quot;feature-card style-grid&quot;&gt;
+					&lt;div class=&quot;feature-card-icon&quot;&gt;&lt;img alt=&quot;icon&quot; width=&quot;40px&quot; height=&quot;40px&quot; src=&quot;../data/uploads/icon/kids-logo.png&quot; /&gt;&lt;/div&gt;
+
+					&lt;div class=&quot;feature-card-details&quot;&gt;
+						&lt;h4 class=&quot;feature-card-title&quot;&gt;&lt;a href=&quot;coding-for-kids/&quot;&gt;Coding for Kids&lt;/a&gt;&lt;/h4&gt;
+
+						&lt;p class=&quot;feature-card-text&quot;&gt;Fun and interactive coding classes for kids! They’ll learn the basics of programming through games, animations, and simple projects, building creativity and problem-solving skills.&lt;/p&gt;
+						&lt;a class=&quot;link-btn&quot; href=&quot;coding-for-kids/&quot;&gt;&lt;span class=&quot;link-effect&quot;&gt; &lt;span class=&quot;effect-1&quot;&gt;Learn More!&lt;/span&gt; &lt;span class=&quot;effect-1&quot;&gt;Learn More!&lt;/span&gt; &lt;/span&gt; &lt;img alt=&quot;icon&quot; src=&quot;../data/uploads/icon/arrow-left-top.svg&quot; /&gt; &lt;/a&gt;
+						&lt;a class=&quot;link-btn mx-2&quot; target=&quot;_blank&quot; href=&quot;https://docs.google.com/forms/d/e/1FAIpQLSeAqT30Ub-3egZChXBjY5IhAuBqK0wng3GT4lQwLNYBztO4GA/viewform?usp=header&quot;&gt;&lt;span class=&quot;link-effect&quot;&gt; &lt;span class=&quot;effect-1&quot;&gt;Enroll now!&lt;/span&gt; &lt;span class=&quot;effect-1&quot;&gt;Enroll now!&lt;/span&gt; &lt;/span&gt; &lt;img alt=&quot;icon&quot; src=&quot;../data/uploads/icon/arrow-left-top.svg&quot; /&gt; &lt;/a&gt;
+						 &lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+
+			&lt;div class=&quot;col-xxl-6 col-xl-6&quot;&gt;
+				&lt;div class=&quot;feature-card style-grid&quot;&gt;
+					&lt;div class=&quot;feature-card-icon&quot;&gt;&lt;img width=&quot;40px&quot; height=&quot;40px&quot; alt=&quot;icon&quot; src=&quot;../data/uploads/icon/wp-logo.png&quot; /&gt;&lt;/div&gt;
+
+					&lt;div class=&quot;feature-card-details&quot;&gt;
+						&lt;h4 class=&quot;feature-card-title&quot;&gt;&lt;a href=&quot;web-development-with-wordpress/&quot;&gt;Web development With WordPress&lt;/a&gt;&lt;/h4&gt;
+
+						&lt;p class=&quot;feature-card-text&quot;&gt;Learn to build professional WordPress websites in just 4 weeks! Master installation, theme customization, plugins, and SEO. Perfect for beginners and aspiring developers. &lt;/p&gt;
+						&lt;a class=&quot;link-btn&quot; href=&quot;web-development-with-wordpress/&quot;&gt;&lt;span class=&quot;link-effect&quot;&gt; &lt;span class=&quot;effect-1&quot;&gt;Learn More!&lt;/span&gt; &lt;span class=&quot;effect-1&quot;&gt;Learn More!&lt;/span&gt; &lt;/span&gt; &lt;img alt=&quot;icon&quot; src=&quot;../data/uploads/icon/arrow-left-top.svg&quot; /&gt; &lt;/a&gt;
+						&lt;a class=&quot;link-btn mx-2&quot; target=&quot;_blank&quot; href=&quot;https://docs.google.com/forms/d/e/1FAIpQLSeAqT30Ub-3egZChXBjY5IhAuBqK0wng3GT4lQwLNYBztO4GA/viewform?usp=header&quot;&gt;&lt;span class=&quot;link-effect&quot;&gt; &lt;span class=&quot;effect-1&quot;&gt;Enroll now!&lt;/span&gt; &lt;span class=&quot;effect-1&quot;&gt;Enroll now!&lt;/span&gt; &lt;/span&gt; &lt;img alt=&quot;icon&quot; src=&quot;../data/uploads/icon/arrow-left-top.svg&quot; /&gt; &lt;/a&gt;
+
+						&lt;/div&gt;
+						
+				&lt;/div&gt;
+			&lt;/div&gt;
+				
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+
+
+&lt;div class=&quot;container-fluid p-0 overflow-hidden&quot;&gt;
+	&lt;div class=&quot;slider__marquee clearfix marquee-wrap&quot;&gt;
+		&lt;div class=&quot;marquee_mode marquee__group&quot;&gt;
+			&lt;h6 class=&quot;item m-item&quot;&gt;&lt;a href=&quot;about-us/&quot;&gt;&lt;i class=&quot;fas fa-star-of-life&quot;&gt;&lt;/i&gt; You Think it&lt;/a&gt;&lt;/h6&gt;
+
+			&lt;h6 class=&quot;item m-item&quot;&gt;&lt;a href=&quot;about-us/&quot;&gt;&lt;i class=&quot;fas fa-star-of-life&quot;&gt;&lt;/i&gt; We Geek it&lt;/a&gt;&lt;/h6&gt;
+
+			&lt;h6 class=&quot;item m-item&quot;&gt;&lt;a href=&quot;about-us/&quot;&gt;&lt;i class=&quot;fas fa-star-of-life&quot;&gt;&lt;/i&gt; You Think it&lt;/a&gt;&lt;/h6&gt;
+
+			&lt;h6 class=&quot;item m-item&quot;&gt;&lt;a href=&quot;about-us/&quot;&gt;&lt;i class=&quot;fas fa-star-of-life&quot;&gt;&lt;/i&gt; We Geek it&lt;/a&gt;&lt;/h6&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+]]></content><private><![CDATA[]]></private><author><![CDATA[admin]]></author></item>

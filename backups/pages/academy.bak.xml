@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Sun, 02 Feb 2025 16:02:11 +0100</pubDate><title><![CDATA[academy]]></title><url><![CDATA[academy]]></url><meta><![CDATA[]]></meta><metad><![CDATA[]]></metad><menu><![CDATA[academy]]></menu><menuOrder><![CDATA[0]]></menuOrder><menuStatus><![CDATA[]]></menuStatus><template><![CDATA[template.php]]></template><parent><![CDATA[]]></parent><content><![CDATA[&lt;div class=&quot;breadcumb-wrapper &quot; data-bg-src=&quot;../data/uploads/our-service.jpg&quot;&gt;
+	&lt;div class=&quot;container&quot;&gt;
+		&lt;div class=&quot;breadcumb-content&quot;&gt;
+			&lt;h1 class=&quot;breadcumb-title&quot;&gt;Our Services&lt;/h1&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;feature-area-1 space&quot;&gt;
+	&lt;div class=&quot;container&quot;&gt;
+		&lt;div class=&quot;row gy-4 align-items-center justify-content-center&quot;&gt;
+			&lt;div class=&quot;col-xxl-6 col-xl-6&quot;&gt;
+				&lt;div class=&quot;feature-card style-grid&quot;&gt;
+					&lt;div class=&quot;feature-card-icon&quot;&gt;&lt;img alt=&quot;icon&quot; src=&quot;../data/uploads/icon/feature-icon1-1.svg&quot; /&gt;&lt;/div&gt;
+
+					&lt;div class=&quot;feature-card-details&quot;&gt;
+						&lt;h4 class=&quot;feature-card-title&quot;&gt;&lt;a href=&quot;web-development/&quot;&gt;Web Development&lt;/a&gt;&lt;/h4&gt;
+
+						&lt;p class=&quot;feature-card-text&quot;&gt;Our developers specialize in creating bespoke websites tailored to your unique requirements...&lt;/p&gt;
+						&lt;a class=&quot;link-btn&quot; href=&quot;web-development/&quot;&gt;&lt;span class=&quot;link-effect&quot;&gt; &lt;span class=&quot;effect-1&quot;&gt;VIEW DETAILS&lt;/span&gt; &lt;span class=&quot;effect-1&quot;&gt;VIEW DETAILS&lt;/span&gt; &lt;/span&gt; &lt;img alt=&quot;icon&quot; src=&quot;../data/uploads/icon/arrow-left-top.svg&quot; /&gt; &lt;/a&gt;&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+
+			&lt;div class=&quot;col-xxl-6 col-xl-6&quot;&gt;
+				&lt;div class=&quot;feature-card style-grid&quot;&gt;
+					&lt;div class=&quot;feature-card-icon&quot;&gt;&lt;img alt=&quot;icon&quot; src=&quot;../data/uploads/icon/feature-icon1-2.svg&quot; /&gt;&lt;/div&gt;
+
+					&lt;div class=&quot;feature-card-details&quot;&gt;
+						&lt;h4 class=&quot;feature-card-title&quot;&gt;&lt;a href=&quot;mobile-app-development/&quot;&gt;App Development&lt;/a&gt;&lt;/h4&gt;
+
+						&lt;p class=&quot;feature-card-text&quot;&gt;Tap into the mobile market with our expert mobile app development services.&lt;/p&gt;
+						&lt;a class=&quot;link-btn&quot; href=&quot;mobile-app-development/&quot;&gt;&lt;span class=&quot;link-effect&quot;&gt; &lt;span class=&quot;effect-1&quot;&gt;VIEW DETAILS&lt;/span&gt; &lt;span class=&quot;effect-1&quot;&gt;VIEW DETAILS&lt;/span&gt; &lt;/span&gt; &lt;img alt=&quot;icon&quot; src=&quot;../data/uploads/icon/arrow-left-top.svg&quot; /&gt; &lt;/a&gt;&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+
+			&lt;div class=&quot;col-xxl-6 col-xl-6&quot;&gt;
+				&lt;div class=&quot;feature-card style-grid&quot;&gt;
+					&lt;div class=&quot;feature-card-icon&quot;&gt;&lt;img alt=&quot;icon&quot; src=&quot;../data/uploads/icon/feature-icon1-4.svg&quot; /&gt;&lt;/div&gt;
+
+					&lt;div class=&quot;feature-card-details&quot;&gt;
+						&lt;h4 class=&quot;feature-card-title&quot;&gt;&lt;a href=&quot;digital-marketing/&quot;&gt;Digital Marketing&lt;/a&gt;&lt;/h4&gt;
+
+						&lt;p class=&quot;feature-card-text&quot;&gt;Crafting a compelling digital marketing strategy is essential for success in the online world.&lt;/p&gt;
+						&lt;a class=&quot;link-btn&quot; href=&quot;digital-marketing/&quot;&gt;&lt;span class=&quot;link-effect&quot;&gt; &lt;span class=&quot;effect-1&quot;&gt;VIEW DETAILS&lt;/span&gt; &lt;span class=&quot;effect-1&quot;&gt;VIEW DETAILS&lt;/span&gt; &lt;/span&gt; &lt;img alt=&quot;icon&quot; src=&quot;../data/uploads/icon/arrow-left-top.svg&quot; /&gt; &lt;/a&gt;&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+
+			&lt;div class=&quot;col-xxl-6 col-xl-6&quot;&gt;
+				&lt;div class=&quot;feature-card style-grid&quot;&gt;
+					&lt;div class=&quot;feature-card-icon&quot;&gt;&lt;img alt=&quot;icon&quot; src=&quot;../data/uploads/icon/feature-icon1-3.svg&quot; /&gt;&lt;/div&gt;
+
+					&lt;div class=&quot;feature-card-details&quot;&gt;
+						&lt;h4 class=&quot;feature-card-title&quot;&gt;&lt;a href=&quot;it-consultancy/&quot;&gt;I.T Consultancy&lt;/a&gt;&lt;/h4&gt;
+
+						&lt;p class=&quot;feature-card-text&quot;&gt;We provide in-depth analytics and insights to help you understand user behavior &amp;amp; refine your digital strategy.&lt;/p&gt;
+						&lt;a class=&quot;link-btn&quot; href=&quot;it-consultancy/&quot;&gt;&lt;span class=&quot;link-effect&quot;&gt; &lt;span class=&quot;effect-1&quot;&gt;VIEW DETAILS&lt;/span&gt; &lt;span class=&quot;effect-1&quot;&gt;VIEW DETAILS&lt;/span&gt; &lt;/span&gt; &lt;img alt=&quot;icon&quot; src=&quot;../data/uploads/icon/arrow-left-top.svg&quot; /&gt; &lt;/a&gt;&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+
+			&lt;div class=&quot;col-xxl-6 col-xl-6&quot;&gt;
+				&lt;div class=&quot;feature-card style-grid&quot;&gt;
+					&lt;div class=&quot;feature-card-icon&quot;&gt;&lt;img alt=&quot;icon&quot; src=&quot;../data/uploads/icon/feature-icon1-5.svg&quot; /&gt;&lt;/div&gt;
+
+					&lt;div class=&quot;feature-card-details&quot;&gt;
+						&lt;h4 class=&quot;feature-card-title&quot;&gt;&lt;a href=&quot;creative-design/&quot;&gt;Creative Design&lt;/a&gt;&lt;/h4&gt;
+
+						&lt;p class=&quot;feature-card-text&quot;&gt;Beyond logos and graphics, we define your visual identity.&lt;/p&gt;
+						&lt;a class=&quot;link-btn&quot; href=&quot;creative-design/&quot;&gt;&lt;span class=&quot;link-effect&quot;&gt; &lt;span class=&quot;effect-1&quot;&gt;VIEW DETAILS&lt;/span&gt; &lt;span class=&quot;effect-1&quot;&gt;VIEW DETAILS&lt;/span&gt; &lt;/span&gt; &lt;img alt=&quot;icon&quot; src=&quot;../data/uploads/icon/arrow-left-top.svg&quot; /&gt; &lt;/a&gt;&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+
+			&lt;div class=&quot;col-xxl-6 col-xl-6&quot;&gt;
+				&lt;div class=&quot;feature-card style-grid&quot;&gt;
+					&lt;div class=&quot;feature-card-icon&quot;&gt;&lt;img alt=&quot;icon&quot; src=&quot;../data/uploads/icon/feature-icon1-6.svg&quot; /&gt;&lt;/div&gt;
+
+					&lt;div class=&quot;feature-card-details&quot;&gt;
+						&lt;h4 class=&quot;feature-card-title&quot;&gt;&lt;a href=&quot;tech-support/&quot;&gt;Tech Support&lt;/a&gt;&lt;/h4&gt;
+
+						&lt;p class=&quot;feature-card-text&quot;&gt;Our support team provides proactive maintenance, ensuring your digital assets are secure, updated for peak performance.&lt;/p&gt;
+						&lt;a class=&quot;link-btn&quot; href=&quot;tech-support/&quot;&gt;&lt;span class=&quot;link-effect&quot;&gt; &lt;span class=&quot;effect-1&quot;&gt;VIEW DETAILS&lt;/span&gt; &lt;span class=&quot;effect-1&quot;&gt;VIEW DETAILS&lt;/span&gt; &lt;/span&gt; &lt;img alt=&quot;icon&quot; src=&quot;../data/uploads/icon/arrow-left-top.svg&quot; /&gt; &lt;/a&gt;&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;contact-area-1 space bg-theme&quot;&gt;
+	&lt;div class=&quot;contact-map shape-mockup wow img-custom-anim-left&quot; data-bottom=&quot;140px&quot; data-left=&quot;0&quot; data-top=&quot;-100px&quot; data-wow-delay=&quot;0.2s&quot; data-wow-duration=&quot;1.5s&quot;&gt;&lt;iframe allowfullscreen=&quot;&quot; loading=&quot;lazy&quot; src=&quot;https://www.google.com/maps/embed?pb=!1m26!1m12!1m3!1d63821.93810170284!2d36.79153249484062!3d-1.2484983773239626!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m11!3e6!4m3!3m2!1d-1.212416!2d36.8410624!4m5!1s0x182f11c419ce4675%3A0xba3a092a63571836!2sEagle%20House%20Kilimani%20Road%2C!3m2!1d-1.2845533!2d36.824154799999995!5e0!3m2!1sen!2ske!4v1704808025820!5m2!1sen!2ske&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+	&lt;div class=&quot;container&quot;&gt;
+		&lt;div class=&quot;row align-items-center justify-content-end&quot;&gt;
+			&lt;div class=&quot;col-lg-6&quot;&gt;
+				&lt;div class=&quot;contact-form-wrap&quot;&gt;
+					&lt;div class=&quot;title-area mb-30&quot;&gt;
+						&lt;h2 class=&quot;sec-title&quot;&gt;Have Any Project on Your Mind?&lt;/h2&gt;
+
+						&lt;p&gt;Great! We&#039;re excited to hear from you and let&#039;s start something&lt;/p&gt;
+					&lt;/div&gt;
+
+					&lt;form action=&quot;https://html.themegenix.com/frisk/mail.php&quot; class=&quot;contact-form ajax-contact&quot; method=&quot;POST&quot;&gt;
+					&lt;div class=&quot;row&quot;&gt;
+						&lt;div class=&quot;col-md-6&quot;&gt;
+							&lt;div class=&quot;form-group&quot;&gt;&lt;input class=&quot;form-control style-border&quot; id=&quot;name&quot; name=&quot;name&quot; placeholder=&quot;Full name*&quot; type=&quot;text&quot; /&gt;&lt;/div&gt;
+						&lt;/div&gt;
+
+						&lt;div class=&quot;col-md-6&quot;&gt;
+							&lt;div class=&quot;form-group&quot;&gt;&lt;input class=&quot;form-control style-border&quot; id=&quot;email&quot; name=&quot;email&quot; placeholder=&quot;Email address*&quot; type=&quot;text&quot; /&gt;&lt;/div&gt;
+						&lt;/div&gt;
+
+						&lt;div class=&quot;col-lg-12&quot;&gt;
+							&lt;div class=&quot;form-group&quot;&gt;&lt;input class=&quot;form-control style-border&quot; id=&quot;number&quot; name=&quot;number&quot; placeholder=&quot;Phone Number&quot; type=&quot;text&quot; /&gt;&lt;/div&gt;
+						&lt;/div&gt;
+
+						&lt;div class=&quot;col-lg-12&quot;&gt;
+							&lt;div class=&quot;form-group&quot;&gt;&lt;textarea class=&quot;form-control style-border&quot; id=&quot;contactForm&quot; name=&quot;message&quot; placeholder=&quot;How Can We Help You*&quot;&gt;&lt;/textarea&gt;&lt;/div&gt;
+						&lt;/div&gt;
+					&lt;/div&gt;
+
+					&lt;div class=&quot;form-btn col-12&quot;&gt;&lt;button class=&quot;btn mt-20&quot; type=&quot;submit&quot;&gt;&lt;span class=&quot;link-effect&quot;&gt; &lt;span class=&quot;effect-1&quot;&gt;SEND MESSAGE&lt;/span&gt; &lt;span class=&quot;effect-1&quot;&gt;SEND MESSAGE&lt;/span&gt; &lt;/span&gt;&lt;/button&gt;&lt;/div&gt;
+					&lt;/form&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;container-fluid p-0 overflow-hidden&quot;&gt;
+	&lt;div class=&quot;slider__marquee clearfix marquee-wrap&quot;&gt;
+		&lt;div class=&quot;marquee_mode marquee__group&quot;&gt;
+			&lt;h6 class=&quot;item m-item&quot;&gt;&lt;a href=&quot;about-us/&quot;&gt;&lt;i class=&quot;fas fa-star-of-life&quot;&gt;&lt;/i&gt; You Think it&lt;/a&gt;&lt;/h6&gt;
+
+			&lt;h6 class=&quot;item m-item&quot;&gt;&lt;a href=&quot;about-us/&quot;&gt;&lt;i class=&quot;fas fa-star-of-life&quot;&gt;&lt;/i&gt; We Geek it&lt;/a&gt;&lt;/h6&gt;
+
+			&lt;h6 class=&quot;item m-item&quot;&gt;&lt;a href=&quot;about-us/&quot;&gt;&lt;i class=&quot;fas fa-star-of-life&quot;&gt;&lt;/i&gt; You Think it&lt;/a&gt;&lt;/h6&gt;
+
+			&lt;h6 class=&quot;item m-item&quot;&gt;&lt;a href=&quot;about-us/&quot;&gt;&lt;i class=&quot;fas fa-star-of-life&quot;&gt;&lt;/i&gt; We Geek it&lt;/a&gt;&lt;/h6&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+]]></content><private><![CDATA[]]></private><author><![CDATA[admin]]></author></item>
