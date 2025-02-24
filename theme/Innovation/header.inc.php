@@ -97,7 +97,7 @@
                     </li>
 
                     <li>
-                        <a target="_blank" href="www.timbaktu.co.ke">TIMBAKTU</a>
+                        <a target="_blank" href="https://timbaktu.co.ke">TIMBAKTU</a>
                     </li>
 
                     <li>
@@ -177,7 +177,7 @@
                     </li>
 
                     <li>
-                        <a target="_blank" href="www.timbaktu.co.ke">TIMBAKTU</a>
+                        <a target="_blank" href="https://timbaktu.co.ke">TIMBAKTU</a>
                     </li>
 
                     <li>
