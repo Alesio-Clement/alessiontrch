@@ -97,7 +97,7 @@
                     </li>
 
                     <li>
-                        <a href="<?php get_site_url(); ?>academy/">ACADEMY</a>
+                        <a target="_blank" href="www.timbaktu.co.ke">TIMBAKTU</a>
                     </li>
 
                     <li>
@@ -110,7 +110,7 @@
 
 
                     <li>
-                        <a href="https://blog.alessiontech.com/">OUR BLOG</a>
+                        <a href="https://blog.alessiontech.co.ke/">OUR BLOG</a>
                     </li>
 
                     
@@ -121,7 +121,7 @@
                 <h6>Nairobi,Kenya.</h6>
             </div>
             <div class="sidebar-wrap">
-                <h6><a href="mailto:info@alessiontech.com">info@alessiontech.com</a></h6>
+                <h6><a href="mailto:info@alessiontech.com">info@alessiontech.co.ke</a></h6>
             </div>
             <div class="social-btn style3">
                 <a href="https://www.facebook.com/">
@@ -177,7 +177,7 @@
                     </li>
 
                     <li>
-                        <a href="<?php get_site_url(); ?>academy/">ACADEMY</a>
+                        <a target="_blank" href="www.timbaktu.co.ke">TIMBAKTU</a>
                     </li>
 
                     <li>
@@ -190,7 +190,7 @@
 
 
                     <li>
-                        <a href="https://blog.alessiontech.com/">OUR BLOG</a>
+                        <a href="https://blog.alessiontech.co.ke">OUR BLOG</a>
                     </li>
 
                     

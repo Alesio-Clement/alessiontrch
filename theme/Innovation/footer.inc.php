@@ -54,7 +54,7 @@
                     <div class="col-xxl-6 col-lg-5 text-lg-end">
                         <ul class="footer-menu-list">
                             <li>
-                                <a href="https://blog.alessiontech.com/">
+                                <a href="https://blog.alessiontech.co.ke/">
                                     <span class="link-effect">
                                         <span class="effect-1">BLOG</span>
                                         <span class="effect-1">BLOG</span>
